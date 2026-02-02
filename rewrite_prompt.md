@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 22:53:44 UTC
+> Last updated: 2026-02-02 23:10:26 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -29,29 +29,29 @@ The following template is filled with values extracted from Databricks blog anal
 ### Brand Language Model
 
 **Tone:**
-- Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional, polished, yet accessible to practitioners`
-- Energy: `enthusiastic about innovation, forward-looking`
+- Confidence Level: `Authoritative and assured`
+- Authorial Posture: `Expert partner and industry leader`
+- Formality: `Professional but accessible`
+- Energy: `Enthusiastic about innovation and efficiency`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
+- Open source legacy
 - Best-in-class
-- Out of the box
-- Seamless integration
-- Production-quality
 - End-to-end lifecycle
-- Open source standards
+- Production-quality
+- Seamless integration
+- Out of the box
 - Price/performance
-- Actionable insights
+- Democratize data and AI
 
 **Phrases to Avoid:**
-- Data silo (unless describing the problem)
+- Closed ecosystem
 - Proprietary lock-in
-- Black box (advocate for observability)
-- Manual processes (advocate for automation)
-- Complex configuration (advocate for simplicity)
+- Data silos
+- Manual processes
+- Legacy infrastructure
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,8 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- The possibilities are endless - from internal data analysis to web searches and beyond
 - We are immensely proud to continue building on this open source legacy
+- The possibilities are endless
+- Databricks is uniquely positioned to help organizations
 
 ---
 
