@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 22:36:03 UTC
+> Last updated: 2026-02-02 22:36:40 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry innovator`
+- Authorial Posture: `expert partner and thought leader`
 - Formality: `professional, polished, yet accessible to technical practitioners`
-- Energy: `enthusiastic about innovation, forward-looking, and solution-oriented`
+- Energy: `enthusiastic about innovation and forward momentum`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
 - Best-in-class
 - Out of the box
+- Time to value
 - Seamless integration
-- Price/performance
-- Open source
 - End-to-end lifecycle
+- Open standards
+- Price/performance
 - Actionable insights
-- Proprietary data
 
 **Phrases to Avoid:**
-- Data silo (unless describing a problem to solve)
-- Vendor lock-in (unless contrasting with Databricks' open approach)
-- Black box (unless describing what to avoid)
-- Guesswork
+- Proprietary lock-in
+- Black box solutions
+- Data silos (unless describing the problem)
 - Manual overhead
+- Legacy infrastructure
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,8 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Unlock the predictive power of your time series data
-- Revolutionizing how we interact with technology
-- Empowering developers to create high-quality evaluation sets
+- The possibilities are endless - from internal data analysis to web searches and beyond
+- We are immensely proud to continue building on this open source legacy
 
 ---
 
