@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 22:40:34 UTC
+> Last updated: 2026-02-02 22:48:54 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,9 +30,9 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional technical`
-- Energy: `enthusiastic about innovation`
+- Authorial Posture: `expert partner and innovator`
+- Formality: `professional, polished, yet accessible`
+- Energy: `enthusiastic about innovation and efficiency`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
@@ -40,18 +40,18 @@ The following template is filled with values extracted from Databricks blog anal
 - Best-in-class
 - Out of the box
 - Seamless integration
-- Price/performance
 - End-to-end lifecycle
-- Production-quality
-- Open source
-- Single source of truth
+- Price/performance
+- Open source legacy
+- Actionable insights
+- Time to value
 
 **Phrases to Avoid:**
-- Proprietary lock-in
-- Black box
-- Data silos
-- Manual processes
-- Legacy infrastructure
+- Cheap (use 'cost-effective' or 'lower TCO')
+- Proprietary lock-in (unless criticizing competitors)
+- Complex setup (emphasize 'simplicity' or 'minutes')
+- Black box (emphasize 'open' and 'observability')
+- Guesswork (emphasize 'data-driven')
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionizing how we interact with technology
-- The possibilities are endless
-- Empowering developers to create high-quality evaluation sets
+- Revolutionized how enterprises harness their unstructured knowledge
+- Empowering developers to create a high-quality evaluation set
+- We are immensely proud to continue building on this open source legacy
 
 ---
 
