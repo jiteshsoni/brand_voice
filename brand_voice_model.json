@@ -1,117 +1,153 @@
 {
-  "version": "4.10.0",
-  "source_posts": [
-    "https://www.databricks.com/blog/hidden-technical-debt-genai-systems",
-    "https://www.databricks.com/blog/driving-industry-outcomes-partner-ai-solutions",
-    "https://www.databricks.com/blog/building-regulatory-risk-copilot-databricks-agent-bricks-part-1-information-extraction",
-    "https://www.databricks.com/blog/alchemist-brickbuilder-databricks-marketplace-app",
-    "https://www.databricks.com/blog/chaos-scale-templatizing-spark-declarative-pipelines-dlt-meta",
-    "https://www.databricks.com/blog/bcbs-239-compliance-age-ai-turning-regulatory-burden-strategic-advantage",
-    "https://www.databricks.com/blog/databricks-spatial-joins-now-17x-faster-out-box",
-    "https://www.databricks.com/blog/introducing-apache-sparkr-41",
-    "https://www.databricks.com/blog/ai-governance-best-practices-how-build-responsible-and-effective-ai-programs",
-    "https://www.databricks.com/blog/instructed-retriever-unlocking-system-level-reasoning-search-agents"
+  "tone": [
+    "Authoritative",
+    "Technical",
+    "Innovative",
+    "Solution-Oriented",
+    "Professional",
+    "Empowering",
+    "Enterprise-Ready",
+    "Collaborative"
   ],
-  "post_count": 10,
-  "tone": {
-    "confidence_level": "authoritative",
-    "authorial_posture": "expert practitioner sharing proven solutions",
-    "formality": "professional but approachable",
-    "energy": "enthusiastic about technology with measured analytical depth",
-    "example_phrases": [
-      "This is precisely the type of challenge Databricks was built to solve",
-      "We are excited to announce that every customer using built-in Spatial SQL for spatial joins, will see up to 17x faster performance",
-      "Databricks shines",
-      "The banks that embrace this will not just survive the next crisis, they'll thrive in it",
-      "These challenges underscore why governance must be intentional and embedded in core processes early"
-    ]
-  },
-  "structure": {
-    "opening_style": "problem-solution framing with industry context",
-    "section_organization": "logical progression with clear descriptive headings, often using questions as headers",
-    "code_integration": "inline with explanations, preceded by context about what the code accomplishes",
-    "conclusion_style": "summary with forward-looking implications or call-to-action"
-  },
   "vocabulary": {
-    "technical_terms": [
-      "lakehouse",
-      "data lineage",
-      "Unity Catalog",
-      "declarative pipelines",
-      "agentic AI",
-      "RAG (retrieval augmented generation)",
-      "embeddings",
-      "feature engineering",
-      "data aggregation",
-      "structured streaming",
-      "metadata-driven",
-      "governance",
-      "LLM-as-a-Judge",
-      "ground truth",
-      "data intelligence platform"
+    "technical_domain": [
+      "Lakehouse",
+      "Data Intelligence Platform",
+      "LLM",
+      "RAG",
+      "Generative AI",
+      "Inference",
+      "Latency",
+      "Throughput",
+      "Governance",
+      "ACID transactions",
+      "Vector Search",
+      "Fine-tuning",
+      "Serverless"
     ],
     "action_verbs": [
-      "accelerate",
-      "automate",
-      "transform",
-      "enable",
-      "streamline",
-      "unify",
-      "scale",
-      "deploy",
-      "leverage",
-      "optimize"
+      "Leverage",
+      "Streamline",
+      "Accelerate",
+      "Democratize",
+      "Orchestrate",
+      "Optimize",
+      "Scale",
+      "Revolutionize",
+      "Synthesize",
+      "Unlock"
     ],
-    "phrases_to_use": [
-      "out-of-the-box",
-      "production-ready",
-      "at scale",
-      "unified platform",
-      "end-to-end",
-      "business-critical",
-      "real-world example",
-      "best practices",
-      "time to insight",
-      "operational overhead"
+    "value_descriptors": [
+      "Production-grade",
+      "Seamless",
+      "Robust",
+      "Unified",
+      "Open",
+      "Interoperable",
+      "State-of-the-art",
+      "Cost-effective",
+      "Fault tolerant"
     ],
-    "phrases_to_avoid": [
-      "simply put",
-      "it goes without saying",
-      "obviously",
-      "as everyone knows",
-      "trivial"
+    "brand_specific": [
+      "Unity Catalog",
+      "Delta Lake",
+      "Mosaic AI",
+      "Databricks Assistant",
+      "Liquid Clustering",
+      "MLflow"
     ]
   },
-  "communication": {
-    "value_proposition": "Databricks solves complex data and AI challenges that legacy systems cannot, delivering faster time-to-value, reduced operational overhead, and enterprise-grade governance",
-    "credibility_markers": [
-      "Citing specific performance benchmarks (e.g., '17x faster')",
-      "Referencing real customer implementations (e.g., ABN AMRO, Children's National Hospital)",
-      "Quoting industry reports (e.g., McKinsey)",
-      "Including expert quotes from Databricks leadership",
-      "Providing comparison tables with legacy approaches"
+  "sentencePatterns": [
+    {
+      "type": "Problem-Solution",
+      "example": "Traditionally, [process] caused [pain point]. With [Product Name], users can now [benefit].",
+      "description": "Sentences often juxtapose a legacy technical challenge with a modern Databricks solution."
+    },
+    {
+      "type": "Announcement-Benefit",
+      "example": "Today, we\u2019re excited to announce [Feature], which enables [User] to [Action] while reducing [Cost/Time].",
+      "description": "Announcements are immediately tied to specific user capabilities and business metrics."
+    },
+    {
+      "type": "Customer-Validation",
+      "example": "[Customer Name] leveraged [Product] to [Action], resulting in [Quantifiable Metric].",
+      "description": "Technical claims are frequently backed by specific customer success stories using a cause-and-effect structure."
+    },
+    {
+      "type": "Technical-Deep-Dive",
+      "example": "By comparing [Metric A] and [Metric B], the team is able to identify [Issue], thereby refining [Outcome].",
+      "description": "Complex sentences that explain the 'how' behind a technical process, often using participial phrases."
+    }
+  ],
+  "structurePatterns": [
+    {
+      "section": "Introduction",
+      "content": "Contextualizes the industry shift (e.g., 'Large language models are revolutionizing...') or states a common engineering problem."
+    },
+    {
+      "section": "The Announcement/Solution",
+      "content": "Introduces the specific Databricks feature or capability that addresses the context."
+    },
+    {
+      "section": "Technical Explanation",
+      "content": "Deep dive into architecture, APIs, or workflows (often referencing specific tools like Unity Catalog or Vector Search)."
+    },
+    {
+      "section": "Social Proof",
+      "content": "Integration of customer quotes or case studies (e.g., Xcel Energy, ICE, Equiniti) to validate the solution."
+    },
+    {
+      "section": "Formatting",
+      "content": "Heavy use of bullet points for steps/benefits, bold text for product names, and code snippets or architectural diagrams (referenced in text)."
+    }
+  ],
+  "communicationStyle": {
+    "perspective": "Expert-to-Peer",
+    "focus": "Data Intelligence and ROI",
+    "approach": "Educational Marketing",
+    "key_themes": [
+      "Speed (7x faster, seconds vs minutes)",
+      "Scale (millions of VMs, PB of data)",
+      "Openness (open formats, interoperability)",
+      "Simplicity (serverless, managed services)",
+      "Governance (security, compliance)"
     ],
-    "technical_depth": "deep but accessible - explains complex concepts with clear context and business relevance"
+    "narrative_arc": "Moves from the complexity of raw data/AI to the simplicity and power of the Databricks platform."
   },
-  "examples": {
-    "openings": [
-      "If we broadly compare classical machine learning and generative AI workflows, we find that the general workflow steps remain similar between the two. Both require data collection, feature engineering, model optimization, deployment, evaluation, etc. but the execution details and time allocations are fundamentally different.",
-      "Generative AI is transforming the way teams work across various industries. According to McKinsey's 'The state of AI in 2025' report, 79% of organizations now use GenAI in at least one business function, up from 65% in 2024.",
-      "BCBS 239 (Risk Data Aggregation and Risk Reporting) has been the global standard for risk data aggregation since 2013; however, most banks still struggle to comply efficiently."
-    ],
-    "transitions": [
-      "As this comparison reveals,",
-      "These issues show why",
-      "This is precisely the type of challenge",
-      "Beyond compliance,",
-      "Even beyond RAG,"
-    ],
-    "conclusions": [
-      "Ultimately, teams transitioning from classical ML to generative AI need to be aware of these new debt sources and adjust their development practices accordingly - spending more time on evaluation, stakeholder management, subjective quality monitoring, and instrumentation rather than the data cleaning and feature engineering that dominated classical ML projects.",
-      "This real-world example shows how moving from fragmented, manual processes to a unified, AI-ready platform transforms regulatory compliance from a burden into a strategic advantage.",
-      "These challenges underscore why governance must be intentional and embedded in core processes early, rather than retrofitted after issues arise."
-    ]
-  },
-  "_saved_at": "2026-02-02T20:57:54.675566",
+  "version": "4.10.0",
+  "extractedAt": "2026-02-02T21:01:19.511880Z",
+  "sourcePosts": [
+    "https://www.databricks.com/blog/streamline-ai-agent-evaluation-with-new-synthetic-data-capabilities",
+    "https://www.databricks.com/blog/generating-coding-tests-llms-focus-spark-sql",
+    "https://www.databricks.com/blog/unlocking-financial-insights-nyse-ice",
+    "https://www.databricks.com/blog/build-autonomous-ai-assistant-mosaic-ai-agent-framework",
+    "https://www.databricks.com/blog/five-simple-steps-for-implementing-a-star-schema-in-databricks-with-delta-lake",
+    "https://www.databricks.com/blog/batch-inference-fine-tuned-llama-models-mosaic-ai-model-serving",
+    "https://www.databricks.com/blog/read-unity-catalog-tables-in-snowflake",
+    "https://www.databricks.com/blog/unlock-predictive-power-your-time-series-data",
+    "https://www.databricks.com/blog/how-automated-workflows-are-revolutionizing-manufacturing-industry",
+    "https://www.databricks.com/blog/xcel-energy-rag",
+    "https://www.databricks.com/blog/data-warehousing-data-intelligence-how-data-took-over",
+    "https://www.databricks.com/blog/announcing-general-availability-materialized-views-and-streaming-tables-databricks-sql",
+    "https://www.databricks.com/blog/aimpoint-digital-delta-sharing-model-serving",
+    "https://www.databricks.com/blog/mixattention",
+    "https://www.databricks.com/blog/databricks-neurips-2024",
+    "https://www.databricks.com/blog/equiniti-from-zero-ai",
+    "https://www.databricks.com/blog/scaling-matlab-and-simulink-models-databricks-and-mathworks",
+    "https://www.databricks.com/blog/predictive-optimization-automatically-delivers-faster-queries-and-lower-tco",
+    "https://www.databricks.com/blog/tealium-databricks-ai-driven-cdp",
+    "https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-compute",
+    "https://www.databricks.com/blog/empowering-business-users-self-service-data-intelligence",
+    "https://www.databricks.com/blog/introducing-exclusively-databricks-hosted-assistant",
+    "https://www.databricks.com/blog/announcing-comprehensive-azure-private-link-coverage-outbound-access-your-managed-azure",
+    "https://www.databricks.com/blog/whats-new-databricks-sql-october-2024",
+    "https://www.databricks.com/blog/introducing-simple-fast-and-scalable-batch-llm-inference-mosaic-ai-model-serving",
+    "https://www.databricks.com/blog/announcing-general-availability-databricks-assistant-autocomplete",
+    "https://www.databricks.com/blog/data-strategy-why-it-matters-and-how-build-one",
+    "https://www.databricks.com/blog/long-context-rag-capabilities-openai-o1-and-google-gemini",
+    "https://www.databricks.com/blog/generalists-specialists-evolution-ai-systems-toward-compound-ai",
+    "https://www.databricks.com/blog/llama-finetuning"
+  ],
+  "_saved_at": "2026-02-02T21:01:20.995939",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
