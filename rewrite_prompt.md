@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 23:10:26 UTC
+> Last updated: 2026-02-02 23:11:04 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -29,29 +29,29 @@ The following template is filled with values extracted from Databricks blog anal
 ### Brand Language Model
 
 **Tone:**
-- Confidence Level: `Authoritative and assured`
-- Authorial Posture: `Expert partner and industry leader`
-- Formality: `Professional but accessible`
-- Energy: `Enthusiastic about innovation and efficiency`
+- Confidence Level: `authoritative and visionary`
+- Authorial Posture: `expert partner and industry leader`
+- Formality: `professional, polished, yet accessible to technical practitioners`
+- Energy: `enthusiastic about innovation and forward-looking`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
-- Open source legacy
 - Best-in-class
-- End-to-end lifecycle
-- Production-quality
-- Seamless integration
-- Out of the box
+- Open source
 - Price/performance
-- Democratize data and AI
+- End-to-end lifecycle
+- Out of the box
+- Single source of truth
+- Seamless integration
+- Actionable insights
 
 **Phrases to Avoid:**
-- Closed ecosystem
 - Proprietary lock-in
-- Data silos
-- Manual processes
-- Legacy infrastructure
+- Data silos (unless describing the problem)
+- Black box solutions
+- Manual infrastructure management
+- Slow data movement
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- We are immensely proud to continue building on this open source legacy
-- The possibilities are endless
-- Databricks is uniquely positioned to help organizations
+- This solution eliminates the need for end users to understand data models
+- Empowering developers to create a high-quality evaluation set
+- Revolutionizing how we interact with technology
 
 ---
 
