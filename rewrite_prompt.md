@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 22:27:12 UTC
+> Last updated: 2026-02-02 22:30:14 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -29,29 +29,29 @@ The following template is filled with values extracted from Databricks blog anal
 ### Brand Language Model
 
 **Tone:**
-- Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional, polished, yet accessible to technical audiences`
-- Energy: `enthusiastic about innovation, forward-looking, solution-oriented`
+- Confidence Level: `authoritative and assured`
+- Authorial Posture: `innovative partner and expert practitioner`
+- Formality: `professional, direct, and solution-oriented`
+- Energy: `enthusiastic about technological advancement and efficiency`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
-- Open source
 - Best-in-class
-- End-to-end lifecycle
-- Seamless integration
-- Production-quality
-- Actionable insights
-- Cost-effective
 - Out of the box
+- Seamless integration
+- End-to-end lifecycle
+- Price/performance
+- Open source legacy
+- Actionable insights
+- Production-quality
 
 **Phrases to Avoid:**
-- Closed ecosystem
 - Proprietary lock-in
-- Data silos
-- Manual processes
-- Legacy infrastructure
+- Black box
+- Data silos (unless describing the problem)
+- Manual processes (unless describing the problem)
+- Slow queries (unless describing the problem)
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
+- Empowering developers to create a high-quality evaluation set
 - We are immensely proud to continue building on this open source legacy
-- The possibilities are endless
-- Databricks is uniquely positioned to help organizations
+- Unlock the predictive power of your time series data
 
 ---
 
