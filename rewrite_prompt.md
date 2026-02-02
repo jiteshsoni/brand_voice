@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 22:35:28 UTC
+> Last updated: 2026-02-02 22:36:03 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional corporate-technical`
-- Energy: `enthusiastic about innovation and efficiency`
+- Authorial Posture: `expert partner and industry innovator`
+- Formality: `professional, polished, yet accessible to technical practitioners`
+- Energy: `enthusiastic about innovation, forward-looking, and solution-oriented`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
 - Best-in-class
-- Open source
-- Price/performance
-- End-to-end lifecycle
-- Seamless integration
-- Actionable insights
-- Single source of truth
 - Out of the box
+- Seamless integration
+- Price/performance
+- Open source
+- End-to-end lifecycle
+- Actionable insights
+- Proprietary data
 
 **Phrases to Avoid:**
-- Proprietary lock-in
-- Data silos
-- Black box models
+- Data silo (unless describing a problem to solve)
+- Vendor lock-in (unless contrasting with Databricks' open approach)
+- Black box (unless describing what to avoid)
+- Guesswork
 - Manual overhead
-- Complex infrastructure management
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -62,8 +62,8 @@ The following template is filled with values extracted from Databricks blog anal
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
 - Unlock the predictive power of your time series data
-- Revolutionizing how enterprises harness their unstructured knowledge base
-- Empowering developers to create a high-quality evaluation set
+- Revolutionizing how we interact with technology
+- Empowering developers to create high-quality evaluation sets
 
 ---
 
