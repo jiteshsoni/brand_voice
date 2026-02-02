@@ -35,49 +35,49 @@
   "post_count": 30,
   "tone": {
     "confidence_level": "authoritative and visionary",
-    "authorial_posture": "expert partner and innovator",
-    "formality": "professional, polished, yet accessible",
-    "energy": "enthusiastic about innovation and efficiency",
+    "authorial_posture": "expert partner and industry pioneer",
+    "formality": "professional, polished, yet accessible to technical practitioners",
+    "energy": "enthusiastic about innovation and forward-looking",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
-      "Revolutionized how enterprises harness their unstructured knowledge",
-      "Empowering developers to create a high-quality evaluation set",
-      "We are immensely proud to continue building on this open source legacy"
+      "Revolutionizing how enterprises harness their unstructured knowledge",
+      "Empowering developers to create high-quality evaluation sets",
+      "The possibilities are endless"
     ]
   },
   "structure": {
-    "opening_style": "context-setting via industry trends or customer challenges",
-    "section_organization": "logical progression: Problem/Context -> Solution/Announcement -> Technical Deep Dive -> Customer Proof -> Conclusion",
-    "code_integration": "illustrative snippets embedded within technical explanations to demonstrate ease of use",
-    "conclusion_style": "summary of benefits with direct calls-to-action or links to documentation"
+    "opening_style": "context-setting hook often referencing industry shifts or common customer challenges",
+    "section_organization": "logical progression: Problem/Context -> Solution/Announcement -> Technical Deep Dive -> Customer Proof/Benchmark -> Conclusion",
+    "code_integration": "functional and illustrative, often embedded to demonstrate ease of use (e.g., SQL snippets, Python configuration)",
+    "conclusion_style": "summary of benefits followed by documentation links or 'get started' calls to action"
   },
   "vocabulary": {
     "technical_terms": [
       "RAG (Retrieval-Augmented Generation)",
       "LLM (Large Language Model)",
-      "Lakehouse architecture",
-      "Vector Search",
-      "Star Schema",
       "Inference",
       "Fine-tuning",
-      "Serverless compute",
+      "Vector Search",
+      "Star Schema",
+      "ACID transactions",
       "Governance",
-      "Batch inference",
-      "Liquid Clustering",
-      "Predictive Optimization"
+      "Orchestration",
+      "Latency",
+      "Throughput",
+      "Serverless"
     ],
     "action_verbs": [
       "Leverage",
       "Streamline",
-      "Accelerate",
       "Democratize",
+      "Accelerate",
       "Unify",
       "Empower",
-      "Optimize",
-      "Revolutionize",
       "Orchestrate",
-      "Scale"
+      "Optimize",
+      "Scale",
+      "Revolutionize"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
@@ -87,25 +87,25 @@
       "Seamless integration",
       "End-to-end lifecycle",
       "Price/performance",
-      "Open source legacy",
-      "Actionable insights",
-      "Time to value"
+      "Open source",
+      "Lakehouse architecture",
+      "Actionable insights"
     ],
     "phrases_to_avoid": [
-      "Cheap (use 'cost-effective' or 'lower TCO')",
-      "Proprietary lock-in (unless criticizing competitors)",
-      "Complex setup (emphasize 'simplicity' or 'minutes')",
-      "Black box (emphasize 'open' and 'observability')",
-      "Guesswork (emphasize 'data-driven')"
+      "Proprietary lock-in",
+      "Black box",
+      "Data silos (unless describing the problem)",
+      "Manual processes (unless describing the problem)",
+      "Legacy infrastructure (unless describing the problem)"
     ]
   },
   "communication": {
-    "value_proposition": "combining data and AI on a single open platform to reduce cost, increase speed, and simplify governance",
+    "value_proposition": "combining data and AI on a unified, open platform to drive efficiency, governance, and innovation",
     "credibility_markers": [
       "Customer quotes (e.g., Corning, Xcel Energy, Tealium)",
-      "Specific performance metrics (e.g., '7x faster', '20x query latency reduction')",
-      "References to open source contributions",
-      "Mentions of scale (e.g., 'millions of VMs', '130 PB vacuumed')"
+      "Performance benchmarks (e.g., '20x faster', '7x improvement')",
+      "References to open source contributions (Spark, MLflow)",
+      "Partnership mentions (Microsoft, NVIDIA)"
     ],
     "technical_depth": "deep but accessible; bridges high-level business value with specific engineering implementation details"
   },
@@ -117,17 +117,17 @@
     ],
     "transitions": [
       "In this blog post, we aim to tackle this challenge by...",
-      "Consequently, a challenge arises...",
-      "Let\u2019s take a look at how...",
       "To address these challenges, we are excited to announce...",
-      "Read on for more details on how..."
+      "Let\u2019s take a look at how...",
+      "Read on for more details on how...",
+      "Consequently, a challenge arises..."
     ],
     "conclusions": [
-      "This system is designed to be highly configurable, with component settings easily adjustable via a YAML file. This modularity ensures the system remains adaptable and future-proof...",
-      "We are immensely proud to continue building on this open source legacy.",
-      "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets."
+      "This closed-loop approach enables continuous improvement of the text-to-SQL system, allowing for refinement and adaptation to evolving SQL queries.",
+      "We intend to gradually roll out additional Assistant features until they are fully on par with those offered via the partner-powered AI settings.",
+      "Databricks provides Tealium with a robust, scalable, reliable and comprehensive data platform that is ideal for our data engineering, analytics and AI/ML needs."
     ]
   },
-  "_saved_at": "2026-02-02T22:48:52.965086",
+  "_saved_at": "2026-02-02T22:50:17.686580",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
