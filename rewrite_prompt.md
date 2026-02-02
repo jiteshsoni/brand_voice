@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 22:48:54 UTC
+> Last updated: 2026-02-02 22:50:18 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,9 +30,9 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and innovator`
-- Formality: `professional, polished, yet accessible`
-- Energy: `enthusiastic about innovation and efficiency`
+- Authorial Posture: `expert partner and industry pioneer`
+- Formality: `professional, polished, yet accessible to technical practitioners`
+- Energy: `enthusiastic about innovation and forward-looking`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
@@ -42,16 +42,16 @@ The following template is filled with values extracted from Databricks blog anal
 - Seamless integration
 - End-to-end lifecycle
 - Price/performance
-- Open source legacy
+- Open source
+- Lakehouse architecture
 - Actionable insights
-- Time to value
 
 **Phrases to Avoid:**
-- Cheap (use 'cost-effective' or 'lower TCO')
-- Proprietary lock-in (unless criticizing competitors)
-- Complex setup (emphasize 'simplicity' or 'minutes')
-- Black box (emphasize 'open' and 'observability')
-- Guesswork (emphasize 'data-driven')
+- Proprietary lock-in
+- Black box
+- Data silos (unless describing the problem)
+- Manual processes (unless describing the problem)
+- Legacy infrastructure (unless describing the problem)
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionized how enterprises harness their unstructured knowledge
-- Empowering developers to create a high-quality evaluation set
-- We are immensely proud to continue building on this open source legacy
+- Revolutionizing how enterprises harness their unstructured knowledge
+- Empowering developers to create high-quality evaluation sets
+- The possibilities are endless
 
 ---
 
