@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 22:03:39 UTC
+> Last updated: 2026-02-02 22:05:02 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,9 +30,9 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry innovator`
-- Formality: `professional, technical, yet accessible`
-- Energy: `enthusiastic about innovation and efficiency`
+- Authorial Posture: `expert partner and thought leader`
+- Formality: `professional but accessible`
+- Energy: `enthusiastic about innovation and solution-oriented`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
@@ -40,18 +40,18 @@ The following template is filled with values extracted from Databricks blog anal
 - Best-in-class
 - Out of the box
 - Seamless integration
-- Production-quality
-- End-to-end lifecycle
-- Open source standards
-- Actionable insights
 - Price/performance
+- Open standards
+- End-to-end lifecycle
+- Actionable insights
+- Single source of truth
 
 **Phrases to Avoid:**
-- Cheap (use 'cost-effective')
-- Proprietary lock-in (unless criticizing competitors)
-- Data warehouse (without qualifying context, prefer 'Lakehouse')
-- Guesswork
-- Manual processes (framed as the negative state)
+- Proprietary lock-in
+- Data silos (unless describing the problem)
+- Black box (unless describing the problem)
+- Slow queries
+- Manual maintenance
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionized how enterprises harness their unstructured knowledge
-- Empowering developers to create a high-quality evaluation set
-- Unlock the predictive power of their time series data
+- Unlock the predictive power of your time series data
+- Revolutionizing how enterprises harness their unstructured knowledge base
+- Simple, fast, and scalable
 
 ---
 
