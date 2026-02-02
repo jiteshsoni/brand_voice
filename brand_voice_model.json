@@ -35,52 +35,49 @@
   "post_count": 30,
   "tone": {
     "confidence_level": "authoritative and visionary",
-    "authorial_posture": "expert partner and industry leader",
-    "formality": "professional technical",
-    "energy": "enthusiastic about innovation",
+    "authorial_posture": "expert partner and innovator",
+    "formality": "professional, polished, yet accessible",
+    "energy": "enthusiastic about innovation and efficiency",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
-      "Revolutionizing how we interact with technology",
-      "The possibilities are endless",
-      "Empowering developers to create high-quality evaluation sets"
+      "Revolutionized how enterprises harness their unstructured knowledge",
+      "Empowering developers to create a high-quality evaluation set",
+      "We are immensely proud to continue building on this open source legacy"
     ]
   },
   "structure": {
-    "opening_style": "context-setting via industry trends or customer pain points",
-    "section_organization": "problem statement -> solution introduction -> technical deep dive -> customer proof -> conclusion",
-    "code_integration": "illustrative snippets embedded within technical explanations",
-    "conclusion_style": "summary of benefits with direct links to documentation or next steps"
+    "opening_style": "context-setting via industry trends or customer challenges",
+    "section_organization": "logical progression: Problem/Context -> Solution/Announcement -> Technical Deep Dive -> Customer Proof -> Conclusion",
+    "code_integration": "illustrative snippets embedded within technical explanations to demonstrate ease of use",
+    "conclusion_style": "summary of benefits with direct calls-to-action or links to documentation"
   },
   "vocabulary": {
     "technical_terms": [
-      "RAG (Retrieval-Augment Generation)",
-      "LLMs",
+      "RAG (Retrieval-Augmented Generation)",
+      "LLM (Large Language Model)",
       "Lakehouse architecture",
       "Vector Search",
+      "Star Schema",
       "Inference",
       "Fine-tuning",
+      "Serverless compute",
       "Governance",
-      "Latency",
-      "Throughput",
-      "Batch processing",
-      "Star schema",
-      "ACID transactions",
-      "Metadata",
-      "Embeddings",
-      "Orchestration"
+      "Batch inference",
+      "Liquid Clustering",
+      "Predictive Optimization"
     ],
     "action_verbs": [
       "Leverage",
-      "Accelerate",
       "Streamline",
+      "Accelerate",
       "Democratize",
-      "Empower",
       "Unify",
+      "Empower",
       "Optimize",
       "Revolutionize",
-      "Harness",
-      "Deploy"
+      "Orchestrate",
+      "Scale"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
@@ -88,49 +85,49 @@
       "Best-in-class",
       "Out of the box",
       "Seamless integration",
-      "Price/performance",
       "End-to-end lifecycle",
-      "Production-quality",
-      "Open source",
-      "Single source of truth"
+      "Price/performance",
+      "Open source legacy",
+      "Actionable insights",
+      "Time to value"
     ],
     "phrases_to_avoid": [
-      "Proprietary lock-in",
-      "Black box",
-      "Data silos",
-      "Manual processes",
-      "Legacy infrastructure"
+      "Cheap (use 'cost-effective' or 'lower TCO')",
+      "Proprietary lock-in (unless criticizing competitors)",
+      "Complex setup (emphasize 'simplicity' or 'minutes')",
+      "Black box (emphasize 'open' and 'observability')",
+      "Guesswork (emphasize 'data-driven')"
     ]
   },
   "communication": {
-    "value_proposition": "combining data warehousing and AI into a single, governed, open platform to reduce TCO and accelerate innovation",
+    "value_proposition": "combining data and AI on a single open platform to reduce cost, increase speed, and simplify governance",
     "credibility_markers": [
-      "Customer quotes (e.g., Corning, Xcel Energy)",
-      "Benchmark graphs (e.g., 20x faster)",
-      "Reference to open source contributions (Spark, MLflow)",
-      "Specific metrics (e.g., 'reduce storage costs by 2x')"
+      "Customer quotes (e.g., Corning, Xcel Energy, Tealium)",
+      "Specific performance metrics (e.g., '7x faster', '20x query latency reduction')",
+      "References to open source contributions",
+      "Mentions of scale (e.g., 'millions of VMs', '130 PB vacuumed')"
     ],
-    "technical_depth": "deep but accessible; bridges high-level business value with low-level implementation details"
+    "technical_depth": "deep but accessible; bridges high-level business value with specific engineering implementation details"
   },
   "examples": {
     "openings": [
       "Our customers continue to shift from monolithic prompts with general-purpose models to specialized agent systems to achieve the quality needed to drive ROI with generative AI.",
-      "Transformer models, the backbone of modern language AI, rely on the attention mechanism to process context when generating output.",
-      "We\u2019re excited to announce that materialized views (MVs) and streaming tables (STs) are now Generally Available in Databricks SQL on AWS and Azure."
+      "For today\u2019s manufacturers, streamlined and automated workflows are crucial for overcoming challenges such as manual data management and equipment downtime.",
+      "While GenAI is the focus today, most enterprises have been working for a decade or longer to make data intelligence a reality within their operations."
     ],
     "transitions": [
       "In this blog post, we aim to tackle this challenge by...",
-      "Let\u2019s dive into a few manufacturing customer success stories.",
+      "Consequently, a challenge arises...",
+      "Let\u2019s take a look at how...",
       "To address these challenges, we are excited to announce...",
-      "Consequently, a challenge arises: how can one...",
       "Read on for more details on how..."
     ],
     "conclusions": [
-      "To get started, see the quick start guide in our documentation.",
-      "We intend to gradually roll out additional Assistant features until they are fully on par with those offered via the partner-powered AI settings.",
+      "This system is designed to be highly configurable, with component settings easily adjustable via a YAML file. This modularity ensures the system remains adaptable and future-proof...",
+      "We are immensely proud to continue building on this open source legacy.",
       "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets."
     ]
   },
-  "_saved_at": "2026-02-02T22:40:33.454669",
+  "_saved_at": "2026-02-02T22:48:52.965086",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
