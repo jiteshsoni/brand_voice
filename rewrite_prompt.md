@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 21:59:23 UTC
+> Last updated: 2026-02-02 22:03:39 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,9 +30,9 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional, polished, yet accessible to technical practitioners`
-- Energy: `enthusiastic about innovation, forward-looking, and solution-oriented`
+- Authorial Posture: `expert partner and industry innovator`
+- Formality: `professional, technical, yet accessible`
+- Energy: `enthusiastic about innovation and efficiency`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
@@ -42,16 +42,16 @@ The following template is filled with values extracted from Databricks blog anal
 - Seamless integration
 - Production-quality
 - End-to-end lifecycle
-- Open standards
+- Open source standards
+- Actionable insights
 - Price/performance
-- Democratize data and AI
 
 **Phrases to Avoid:**
-- Data silo (unless describing a problem to solve)
-- Proprietary lock-in (unless describing competitors)
-- Black box (unless describing what to avoid)
-- Manual processes
-- Complex configuration
+- Cheap (use 'cost-effective')
+- Proprietary lock-in (unless criticizing competitors)
+- Data warehouse (without qualifying context, prefer 'Lakehouse')
+- Guesswork
+- Manual processes (framed as the negative state)
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- This solution eliminates the need for end users to understand data models
+- Revolutionized how enterprises harness their unstructured knowledge
 - Empowering developers to create a high-quality evaluation set
-- We are immensely proud to continue building on this open source legacy
+- Unlock the predictive power of their time series data
 
 ---
 
