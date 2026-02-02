@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 22:30:14 UTC
+> Last updated: 2026-02-02 22:35:28 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -29,29 +29,29 @@ The following template is filled with values extracted from Databricks blog anal
 ### Brand Language Model
 
 **Tone:**
-- Confidence Level: `authoritative and assured`
-- Authorial Posture: `innovative partner and expert practitioner`
-- Formality: `professional, direct, and solution-oriented`
-- Energy: `enthusiastic about technological advancement and efficiency`
+- Confidence Level: `authoritative and visionary`
+- Authorial Posture: `expert partner and industry leader`
+- Formality: `professional corporate-technical`
+- Energy: `enthusiastic about innovation and efficiency`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
 - Best-in-class
-- Out of the box
-- Seamless integration
-- End-to-end lifecycle
+- Open source
 - Price/performance
-- Open source legacy
+- End-to-end lifecycle
+- Seamless integration
 - Actionable insights
-- Production-quality
+- Single source of truth
+- Out of the box
 
 **Phrases to Avoid:**
 - Proprietary lock-in
-- Black box
-- Data silos (unless describing the problem)
-- Manual processes (unless describing the problem)
-- Slow queries (unless describing the problem)
+- Data silos
+- Black box models
+- Manual overhead
+- Complex infrastructure management
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Empowering developers to create a high-quality evaluation set
-- We are immensely proud to continue building on this open source legacy
 - Unlock the predictive power of your time series data
+- Revolutionizing how enterprises harness their unstructured knowledge base
+- Empowering developers to create a high-quality evaluation set
 
 ---
 
