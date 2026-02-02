@@ -35,52 +35,50 @@
   "post_count": 30,
   "tone": {
     "confidence_level": "authoritative and visionary",
-    "authorial_posture": "expert partner and industry leader",
-    "formality": "professional, polished, yet accessible to technical practitioners",
-    "energy": "enthusiastic about innovation, forward-looking, and solution-oriented",
+    "authorial_posture": "expert partner and industry innovator",
+    "formality": "professional, technical, yet accessible",
+    "energy": "enthusiastic about innovation and efficiency",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
-      "This solution eliminates the need for end users to understand data models",
+      "Revolutionized how enterprises harness their unstructured knowledge",
       "Empowering developers to create a high-quality evaluation set",
-      "We are immensely proud to continue building on this open source legacy"
+      "Unlock the predictive power of their time series data"
     ]
   },
   "structure": {
-    "opening_style": "context-setting via industry trends or common pain points, followed immediately by the solution",
-    "section_organization": "logical progression: Context -> The Challenge -> The Solution (Feature/Product) -> Technical Deep Dive/How-It-Works -> Customer Proof/Benchmark -> Conclusion",
-    "code_integration": "functional and illustrative; code blocks are used to prove simplicity or demonstrate specific syntax (e.g., SQL, Python) alongside the narrative",
-    "conclusion_style": "summary of benefits often coupled with a 'Get Started' link or future outlook"
+    "opening_style": "context-setting via industry trends or direct problem/solution framing",
+    "section_organization": "logical progression: Context -> Announcement/Solution -> Technical Deep Dive -> Customer Proof -> Conclusion",
+    "code_integration": "inline code blocks used as evidence of simplicity (e.g., SQL or Python snippets)",
+    "conclusion_style": "summary of benefits with direct links to documentation or next steps"
   },
   "vocabulary": {
     "technical_terms": [
       "RAG (Retrieval-Augmented Generation)",
       "LLM (Large Language Model)",
-      "Lakehouse architecture",
-      "Generative AI",
-      "Inference",
-      "Fine-tuning",
       "Vector Search",
-      "Serverless",
+      "Inference",
       "Latency",
+      "Throughput",
+      "Star Schema",
+      "ACID transactions",
+      "Fine-tuning",
       "Orchestration",
       "Governance",
-      "TCO (Total Cost of Ownership)",
-      "Throughput",
-      "Embeddings",
-      "ACID transactions"
+      "Data Silos",
+      "TCO (Total Cost of Ownership)"
     ],
     "action_verbs": [
       "Leverage",
       "Streamline",
       "Democratize",
-      "Empower",
       "Accelerate",
       "Unify",
+      "Empower",
       "Orchestrate",
-      "Scale",
+      "Revolutionize",
       "Optimize",
-      "Revolutionize"
+      "Scale"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
@@ -90,47 +88,47 @@
       "Seamless integration",
       "Production-quality",
       "End-to-end lifecycle",
-      "Open standards",
-      "Price/performance",
-      "Democratize data and AI"
+      "Open source standards",
+      "Actionable insights",
+      "Price/performance"
     ],
     "phrases_to_avoid": [
-      "Data silo (unless describing a problem to solve)",
-      "Proprietary lock-in (unless describing competitors)",
-      "Black box (unless describing what to avoid)",
-      "Manual processes",
-      "Complex configuration"
+      "Cheap (use 'cost-effective')",
+      "Proprietary lock-in (unless criticizing competitors)",
+      "Data warehouse (without qualifying context, prefer 'Lakehouse')",
+      "Guesswork",
+      "Manual processes (framed as the negative state)"
     ]
   },
   "communication": {
-    "value_proposition": "combines technical superiority (speed, scale) with business value (TCO, ROI, governance) and ease of use (serverless, managed)",
+    "value_proposition": "combining the flexibility of data lakes with the governance and performance of data warehouses (Lakehouse), powered by AI",
     "credibility_markers": [
-      "Customer quotes (e.g., Corning, Xcel Energy, Tealium)",
-      "Quantitative benchmarks (e.g., '20x faster', '7x improvement')",
+      "Customer quotes (e.g., Corning, Xcel Energy, Lippert)",
+      "Specific performance metrics (e.g., '20x faster', '7x improvement')",
       "References to open source contributions (Spark, MLflow)",
-      "Partnership mentions (Microsoft, NVIDIA)"
+      "Partnership mentions (Microsoft, Tealium)"
     ],
-    "technical_depth": "deep but accessible; assumes reader is data-literate but explains complex architectural concepts clearly"
+    "technical_depth": "deep but accessible; assumes familiarity with data engineering/data science concepts but explains new proprietary features clearly"
   },
   "examples": {
     "openings": [
       "Our customers continue to shift from monolithic prompts with general-purpose models to specialized agent systems to achieve the quality needed to drive ROI with generative AI.",
-      "For today\u2019s manufacturers, streamlined and automated workflows are crucial for overcoming challenges such as manual data management and equipment downtime.",
-      "Transformer models, the backbone of modern language AI, rely on the attention mechanism to process context when generating output."
+      "We are updating this blog to show developers how to leverage the latest features of Databricks and the advancements in Spark. Most data warehouse developers are very familiar with the ever-present star schema.",
+      "Retrieval-augmented generation (RAG) has revolutionized how enterprises harness their unstructured knowledge base using Large Language Models (LLMs), and its potential has far-reaching impacts."
     ],
     "transitions": [
-      "In this blog post, we aim to tackle this challenge by...",
-      "Let\u2019s take a look at how...",
-      "To address these challenges, we are excited to announce...",
       "Consequently, a challenge arises...",
-      "Let\u2019s dive into a few manufacturing customer success stories."
+      "To address these challenges, we are excited to announce...",
+      "Let\u2019s dive into a few manufacturing customer success stories.",
+      "In this blog post, we aim to tackle this challenge by...",
+      "Read on for more details on how..."
     ],
     "conclusions": [
-      "The Databricks Data Intelligence Platform enables our customers to securely build high-quality AI systems using their own data. To make sure our customers can leverage state-of-the-art Generative AI models, it is important to support features like efficiently fine-tuning Llama 3.1 on long context lengths.",
-      "We are excited to bring these productivity improvements to everyone. Over the coming weeks, we\u2019ll be enabling Databricks Assistant Autocomplete across eligible workspaces.",
-      "This system is designed to be highly configurable, with component settings easily adjustable via a YAML file. This modularity ensures the system remains adaptable and future-proof, ready to integrate with best-in-breed solutions for each component."
+      "The synthetic generation API is tightly integrated with Agent Evaluation, MLflow, Mosaic AI, and the rest of the Databricks Data Intelligence Platform, allowing you to use the data to quickly evaluate and improve the quality of your agent\u2019s responses. To get started, see the quick...",
+      "Databricks provides Tealium with a robust, scalable, reliable and comprehensive data platform that is ideal for our data engineering, analytics and AI/ML needs. Leveraging Databricks allows Tealium to accelerate the development of innovative solutions...",
+      "We are excited to bring these productivity improvements to everyone. Over the coming weeks, we\u2019ll be enabling Databricks Assistant Autocomplete across eligible workspaces."
     ]
   },
-  "_saved_at": "2026-02-02T21:59:22.683915",
+  "_saved_at": "2026-02-02T22:03:37.055487",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
