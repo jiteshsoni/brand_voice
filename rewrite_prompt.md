@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 21:35:30 UTC
+> Last updated: 2026-02-02 21:59:23 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -29,24 +29,41 @@ The following template is filled with values extracted from Databricks blog anal
 ### Brand Language Model
 
 **Tone:**
-- Confidence Level: `Authoritative`
-- Authorial Posture: `Innovative`
-- Formality: `professional`
-- Energy: `confident`
+- Confidence Level: `authoritative and visionary`
+- Authorial Posture: `expert partner and industry leader`
+- Formality: `professional, polished, yet accessible to technical practitioners`
+- Energy: `enthusiastic about innovation, forward-looking, and solution-oriented`
 
 **Vocabulary to Use:**
-
+- Data Intelligence Platform
+- Unified governance
+- Best-in-class
+- Out of the box
+- Seamless integration
+- Production-quality
+- End-to-end lifecycle
+- Open standards
+- Price/performance
+- Democratize data and AI
 
 **Phrases to Avoid:**
-
+- Data silo (unless describing a problem to solve)
+- Proprietary lock-in (unless describing competitors)
+- Black box (unless describing what to avoid)
+- Manual processes
+- Complex configuration
 
 **Structure:**
-- Opening Style: `Problem-Solution Narrative: Starts with the 'Why' (industry challenge), moves to the 'What' (Databricks solution), and ends with the 'How' (technical implementation).`
+- Opening Style: `context-setting hook`
 - Section Organization: `logical flow`
 - Conclusion Style: `call to action`
 
 **Example Phrases:**
-
+- We’re excited to announce a significant enhancement
+- Databricks pioneered the open data lakehouse architecture
+- This solution eliminates the need for end users to understand data models
+- Empowering developers to create a high-quality evaluation set
+- We are immensely proud to continue building on this open source legacy
 
 ---
 
@@ -136,31 +153,31 @@ The brand voice was extracted from these 30 Databricks blog posts:
 3. https://www.databricks.com/blog/unlocking-financial-insights-nyse-ice
 4. https://www.databricks.com/blog/build-autonomous-ai-assistant-mosaic-ai-agent-framework
 5. https://www.databricks.com/blog/five-simple-steps-for-implementing-a-star-schema-in-databricks-with-delta-lake
-6. https://www.databricks.com/blog/batch-inference-fine-tuned-llama-models-mosaic-ai-model-serving
-7. https://www.databricks.com/blog/read-unity-catalog-tables-in-snowflake
-8. https://www.databricks.com/blog/unlock-predictive-power-your-time-series-data
-9. https://www.databricks.com/blog/how-automated-workflows-are-revolutionizing-manufacturing-industry
-10. https://www.databricks.com/blog/xcel-energy-rag
-11. https://www.databricks.com/blog/data-warehousing-data-intelligence-how-data-took-over
-12. https://www.databricks.com/blog/announcing-general-availability-materialized-views-and-streaming-tables-databricks-sql
-13. https://www.databricks.com/blog/aimpoint-digital-delta-sharing-model-serving
-14. https://www.databricks.com/blog/mixattention
-15. https://www.databricks.com/blog/databricks-neurips-2024
-16. https://www.databricks.com/blog/equiniti-from-zero-ai
-17. https://www.databricks.com/blog/scaling-matlab-and-simulink-models-databricks-and-mathworks
-18. https://www.databricks.com/blog/predictive-optimization-automatically-delivers-faster-queries-and-lower-tco
-19. https://www.databricks.com/blog/tealium-databricks-ai-driven-cdp
-20. https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-compute
-21. https://www.databricks.com/blog/empowering-business-users-self-service-data-intelligence
-22. https://www.databricks.com/blog/introducing-exclusively-databricks-hosted-assistant
-23. https://www.databricks.com/blog/announcing-comprehensive-azure-private-link-coverage-outbound-access-your-managed-azure
-24. https://www.databricks.com/blog/whats-new-databricks-sql-october-2024
-25. https://www.databricks.com/blog/introducing-simple-fast-and-scalable-batch-llm-inference-mosaic-ai-model-serving
-26. https://www.databricks.com/blog/announcing-general-availability-databricks-assistant-autocomplete
-27. https://www.databricks.com/blog/data-strategy-why-it-matters-and-how-build-one
-28. https://www.databricks.com/blog/long-context-rag-capabilities-openai-o1-and-google-gemini
-29. https://www.databricks.com/blog/generalists-specialists-evolution-ai-systems-toward-compound-ai
-30. https://www.databricks.com/blog/llama-finetuning
+6. https://www.databricks.com/blog/read-unity-catalog-tables-in-snowflake
+7. https://www.databricks.com/blog/unlock-predictive-power-your-time-series-data
+8. https://www.databricks.com/blog/how-automated-workflows-are-revolutionizing-manufacturing-industry
+9. https://www.databricks.com/blog/xcel-energy-rag
+10. https://www.databricks.com/blog/data-warehousing-data-intelligence-how-data-took-over
+11. https://www.databricks.com/blog/announcing-general-availability-materialized-views-and-streaming-tables-databricks-sql
+12. https://www.databricks.com/blog/aimpoint-digital-delta-sharing-model-serving
+13. https://www.databricks.com/blog/mixattention
+14. https://www.databricks.com/blog/databricks-neurips-2024
+15. https://www.databricks.com/blog/equiniti-from-zero-ai
+16. https://www.databricks.com/blog/scaling-matlab-and-simulink-models-databricks-and-mathworks
+17. https://www.databricks.com/blog/predictive-optimization-automatically-delivers-faster-queries-and-lower-tco
+18. https://www.databricks.com/blog/tealium-databricks-ai-driven-cdp
+19. https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-compute
+20. https://www.databricks.com/blog/empowering-business-users-self-service-data-intelligence
+21. https://www.databricks.com/blog/introducing-exclusively-databricks-hosted-assistant
+22. https://www.databricks.com/blog/announcing-comprehensive-azure-private-link-coverage-outbound-access-your-managed-azure
+23. https://www.databricks.com/blog/whats-new-databricks-sql-october-2024
+24. https://www.databricks.com/blog/introducing-simple-fast-and-scalable-batch-llm-inference-mosaic-ai-model-serving
+25. https://www.databricks.com/blog/announcing-general-availability-databricks-assistant-autocomplete
+26. https://www.databricks.com/blog/data-strategy-why-it-matters-and-how-build-one
+27. https://www.databricks.com/blog/long-context-rag-capabilities-openai-o1-and-google-gemini
+28. https://www.databricks.com/blog/generalists-specialists-evolution-ai-systems-toward-compound-ai
+29. https://www.databricks.com/blog/llama-finetuning
+30. https://www.databricks.com/blog/bridging-ai-adoption-gap-industry-trends-and-insights-women-leaders-data-ai
 
 ---
 
