@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-02 22:50:18 UTC
+> Last updated: 2026-02-02 22:53:44 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,9 +30,9 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry pioneer`
-- Formality: `professional, polished, yet accessible to technical practitioners`
-- Energy: `enthusiastic about innovation and forward-looking`
+- Authorial Posture: `expert partner and industry leader`
+- Formality: `professional, polished, yet accessible to practitioners`
+- Energy: `enthusiastic about innovation, forward-looking`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
@@ -40,18 +40,18 @@ The following template is filled with values extracted from Databricks blog anal
 - Best-in-class
 - Out of the box
 - Seamless integration
+- Production-quality
 - End-to-end lifecycle
+- Open source standards
 - Price/performance
-- Open source
-- Lakehouse architecture
 - Actionable insights
 
 **Phrases to Avoid:**
+- Data silo (unless describing the problem)
 - Proprietary lock-in
-- Black box
-- Data silos (unless describing the problem)
-- Manual processes (unless describing the problem)
-- Legacy infrastructure (unless describing the problem)
+- Black box (advocate for observability)
+- Manual processes (advocate for automation)
+- Complex configuration (advocate for simplicity)
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,8 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionizing how enterprises harness their unstructured knowledge
-- Empowering developers to create high-quality evaluation sets
-- The possibilities are endless
+- The possibilities are endless - from internal data analysis to web searches and beyond
+- We are immensely proud to continue building on this open source legacy
 
 ---
 
