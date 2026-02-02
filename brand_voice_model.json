@@ -35,82 +35,82 @@
   "post_count": 30,
   "tone": {
     "confidence_level": "authoritative and visionary",
-    "authorial_posture": "innovative partner and expert practitioner",
+    "authorial_posture": "expert partner and industry leader",
     "formality": "professional technical",
-    "energy": "enthusiastic about innovation and speed",
+    "energy": "enthusiastic about innovation",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
+      "Revolutionizing how we interact with technology",
       "The possibilities are endless",
-      "We are immensely proud to continue building on this open source legacy",
-      "Databricks is uniquely positioned to help organizations"
+      "Empowering developers to create high-quality evaluation sets"
     ]
   },
   "structure": {
-    "opening_style": "context-setting followed by solution announcement",
-    "section_organization": "problem-solution format with clear descriptive headers",
-    "code_integration": "functional snippets (SQL/Python) used to demonstrate ease of use",
-    "conclusion_style": "summary of impact with direct call-to-action or documentation link"
+    "opening_style": "context-setting via industry trends or customer pain points",
+    "section_organization": "problem statement -> solution introduction -> technical deep dive -> customer proof -> conclusion",
+    "code_integration": "illustrative snippets embedded within technical explanations",
+    "conclusion_style": "summary of benefits with direct links to documentation or next steps"
   },
   "vocabulary": {
     "technical_terms": [
-      "RAG (Retrieval-Augmented Generation)",
-      "LLM (Large Language Model)",
+      "RAG (Retrieval-Augment Generation)",
+      "LLMs",
+      "Lakehouse architecture",
+      "Vector Search",
       "Inference",
       "Fine-tuning",
-      "Vector Search",
-      "Serverless",
+      "Governance",
       "Latency",
       "Throughput",
-      "Governance",
-      "Orchestration",
       "Batch processing",
-      "Streaming",
-      "Schema",
+      "Star schema",
+      "ACID transactions",
+      "Metadata",
       "Embeddings",
-      "TCO (Total Cost of Ownership)"
+      "Orchestration"
     ],
     "action_verbs": [
       "Leverage",
-      "Streamline",
       "Accelerate",
+      "Streamline",
       "Democratize",
       "Empower",
       "Unify",
       "Optimize",
       "Revolutionize",
-      "Orchestrate",
-      "Scale"
+      "Harness",
+      "Deploy"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
       "Unified governance",
-      "State-of-the-art (SOTA)",
+      "Best-in-class",
       "Out of the box",
-      "Price/performance",
-      "Time to value",
       "Seamless integration",
-      "Enterprise-grade",
-      "Open standards",
+      "Price/performance",
+      "End-to-end lifecycle",
+      "Production-quality",
+      "Open source",
       "Single source of truth"
     ],
     "phrases_to_avoid": [
       "Proprietary lock-in",
-      "Data silos",
       "Black box",
+      "Data silos",
       "Manual processes",
-      "Complex configuration"
+      "Legacy infrastructure"
     ]
   },
   "communication": {
-    "value_proposition": "combining data and AI on a single unified platform to reduce cost and complexity while increasing speed",
+    "value_proposition": "combining data warehousing and AI into a single, governed, open platform to reduce TCO and accelerate innovation",
     "credibility_markers": [
-      "Customer testimonials (e.g., Corning, Xcel Energy)",
-      "Specific performance metrics (e.g., '7x faster', '20x query latency reduction')",
-      "Reference to internal or external benchmarks",
-      "Mention of specific partner collaborations (e.g., Microsoft, Tealium)"
+      "Customer quotes (e.g., Corning, Xcel Energy)",
+      "Benchmark graphs (e.g., 20x faster)",
+      "Reference to open source contributions (Spark, MLflow)",
+      "Specific metrics (e.g., 'reduce storage costs by 2x')"
     ],
-    "technical_depth": "deep but accessible, bridging high-level business value with implementation details"
+    "technical_depth": "deep but accessible; bridges high-level business value with low-level implementation details"
   },
   "examples": {
     "openings": [
@@ -120,17 +120,17 @@
     ],
     "transitions": [
       "In this blog post, we aim to tackle this challenge by...",
-      "To address these challenges, we are excited to announce...",
       "Let\u2019s dive into a few manufacturing customer success stories.",
+      "To address these challenges, we are excited to announce...",
       "Consequently, a challenge arises: how can one...",
       "Read on for more details on how..."
     ],
     "conclusions": [
-      "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets.",
-      "This closed-loop approach enables continuous improvement of the text-to-SQL system, allowing for refinement and adaptation to evolving SQL queries.",
-      "We intend to gradually roll out additional Assistant features until they are fully on par with those offered via the partner-powered AI settings."
+      "To get started, see the quick start guide in our documentation.",
+      "We intend to gradually roll out additional Assistant features until they are fully on par with those offered via the partner-powered AI settings.",
+      "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets."
     ]
   },
-  "_saved_at": "2026-02-02T22:39:34.670583",
+  "_saved_at": "2026-02-02T22:40:33.454669",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
