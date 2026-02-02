@@ -1,80 +1,11 @@
 {
-  "tone": [
-    "Authoritative",
-    "Innovative",
-    "Solution-oriented",
-    "Professional",
-    "Empowering",
-    "Technical",
-    "Forward-looking",
-    "Collaborative"
-  ],
-  "vocabulary": {
-    "branded_terms": [
-      "Data Intelligence Platform",
-      "Mosaic AI",
-      "Unity Catalog",
-      "Delta Lake",
-      "Lakehouse",
-      "Databricks Assistant",
-      "Liquid Clustering"
-    ],
-    "technical_jargon": [
-      "LLM",
-      "RAG (Retrieval-Augmented Generation)",
-      "inference",
-      "latency",
-      "throughput",
-      "synthetic data",
-      "vector embedding",
-      "ACID transactions",
-      "star schema",
-      "fine-tuning",
-      "KV cache"
-    ],
-    "business_impact_words": [
-      "ROI",
-      "accelerate",
-      "streamline",
-      "scale",
-      "governance",
-      "silos",
-      "interoperability",
-      "democratization",
-      "efficiency",
-      "revolutionizing"
-    ]
-  },
-  "sentencePatterns": [
-    "Context-setting openers: Sentences often begin by establishing a current industry trend or challenge (e.g., 'Our customers continue to shift...', 'For today\u2019s manufacturers...').",
-    "Feature-Benefit bridging: Connecting a specific technical capability directly to a business outcome (e.g., 'This allows you to quickly generate evaluation data \u2013 skipping the weeks to months of labeling...').",
-    "Announcement syntax: Standardized phrasing for releases (e.g., 'Today, we\u2019re excited to announce...', 'We are updating this blog to show...').",
-    "Action-oriented instruction: Imperative sentences guiding user behavior (e.g., 'Use Delta Tables to create...', 'Leverage Predictive Optimization to...').",
-    "Evidence-based assertions: Statements backed by specific metrics or customer quotes (e.g., '...improve relative model response quality by 60%...', '...reduce storage costs by 2x...')."
-  ],
-  "structurePatterns": [
-    "Problem-Solution Narrative: Starts with the 'Why' (industry challenge), moves to the 'What' (Databricks solution), and ends with the 'How' (technical implementation).",
-    "Customer Validation: Frequent integration of specific customer success stories (e.g., Xcel Energy, Lippert, ICE) to validate technical claims.",
-    "Hierarchical Organization: Use of clear H2/H3 headers (Introduction, Approach, Workflow) to break down complex technical concepts.",
-    "List-based simplification: Heavy use of bulleted or numbered lists to summarize steps, benefits, or features.",
-    "Visual referencing: Explicit references to diagrams or code snippets (e.g., 'Figure 1', 'code snippets shown throughout') to anchor the text."
-  ],
-  "communicationStyle": {
-    "focus": "The voice bridges the gap between high-level executive strategy and low-level engineering implementation. It speaks to the 'builder' while reassuring the 'buyer'.",
-    "perspective": "Unified and Open. The content consistently emphasizes breaking down silos, interoperability with other tools (Snowflake, MATLAB), and a unified governance layer.",
-    "educational_approach": "The style is instructive rather than just promotional. It explains 'how' things work (e.g., explaining sliding window attention or star schemas) to establish thought leadership.",
-    "metric_driven": "Success is quantified. The voice relies on speed improvements (7x faster), cost reductions, and accuracy percentages to prove value.",
-    "partnership_oriented": "Frequently highlights ecosystem integrations and partners (NVIDIA, Microsoft, AWS) to show a robust support network."
-  },
   "version": "4.10.0",
-  "extractedAt": "2026-02-02T21:02:12.499155Z",
-  "sourcePosts": [
+  "source_posts": [
     "https://www.databricks.com/blog/streamline-ai-agent-evaluation-with-new-synthetic-data-capabilities",
     "https://www.databricks.com/blog/generating-coding-tests-llms-focus-spark-sql",
     "https://www.databricks.com/blog/unlocking-financial-insights-nyse-ice",
     "https://www.databricks.com/blog/build-autonomous-ai-assistant-mosaic-ai-agent-framework",
     "https://www.databricks.com/blog/five-simple-steps-for-implementing-a-star-schema-in-databricks-with-delta-lake",
-    "https://www.databricks.com/blog/batch-inference-fine-tuned-llama-models-mosaic-ai-model-serving",
     "https://www.databricks.com/blog/read-unity-catalog-tables-in-snowflake",
     "https://www.databricks.com/blog/unlock-predictive-power-your-time-series-data",
     "https://www.databricks.com/blog/how-automated-workflows-are-revolutionizing-manufacturing-industry",
@@ -98,8 +29,108 @@
     "https://www.databricks.com/blog/data-strategy-why-it-matters-and-how-build-one",
     "https://www.databricks.com/blog/long-context-rag-capabilities-openai-o1-and-google-gemini",
     "https://www.databricks.com/blog/generalists-specialists-evolution-ai-systems-toward-compound-ai",
-    "https://www.databricks.com/blog/llama-finetuning"
+    "https://www.databricks.com/blog/llama-finetuning",
+    "https://www.databricks.com/blog/bridging-ai-adoption-gap-industry-trends-and-insights-women-leaders-data-ai"
   ],
-  "_saved_at": "2026-02-02T21:35:28.990350",
+  "post_count": 30,
+  "tone": {
+    "confidence_level": "authoritative and visionary",
+    "authorial_posture": "expert partner and industry leader",
+    "formality": "professional, polished, yet accessible to technical practitioners",
+    "energy": "enthusiastic about innovation, forward-looking, and solution-oriented",
+    "example_phrases": [
+      "We\u2019re excited to announce a significant enhancement",
+      "Databricks pioneered the open data lakehouse architecture",
+      "This solution eliminates the need for end users to understand data models",
+      "Empowering developers to create a high-quality evaluation set",
+      "We are immensely proud to continue building on this open source legacy"
+    ]
+  },
+  "structure": {
+    "opening_style": "context-setting via industry trends or common pain points, followed immediately by the solution",
+    "section_organization": "logical progression: Context -> The Challenge -> The Solution (Feature/Product) -> Technical Deep Dive/How-It-Works -> Customer Proof/Benchmark -> Conclusion",
+    "code_integration": "functional and illustrative; code blocks are used to prove simplicity or demonstrate specific syntax (e.g., SQL, Python) alongside the narrative",
+    "conclusion_style": "summary of benefits often coupled with a 'Get Started' link or future outlook"
+  },
+  "vocabulary": {
+    "technical_terms": [
+      "RAG (Retrieval-Augmented Generation)",
+      "LLM (Large Language Model)",
+      "Lakehouse architecture",
+      "Generative AI",
+      "Inference",
+      "Fine-tuning",
+      "Vector Search",
+      "Serverless",
+      "Latency",
+      "Orchestration",
+      "Governance",
+      "TCO (Total Cost of Ownership)",
+      "Throughput",
+      "Embeddings",
+      "ACID transactions"
+    ],
+    "action_verbs": [
+      "Leverage",
+      "Streamline",
+      "Democratize",
+      "Empower",
+      "Accelerate",
+      "Unify",
+      "Orchestrate",
+      "Scale",
+      "Optimize",
+      "Revolutionize"
+    ],
+    "phrases_to_use": [
+      "Data Intelligence Platform",
+      "Unified governance",
+      "Best-in-class",
+      "Out of the box",
+      "Seamless integration",
+      "Production-quality",
+      "End-to-end lifecycle",
+      "Open standards",
+      "Price/performance",
+      "Democratize data and AI"
+    ],
+    "phrases_to_avoid": [
+      "Data silo (unless describing a problem to solve)",
+      "Proprietary lock-in (unless describing competitors)",
+      "Black box (unless describing what to avoid)",
+      "Manual processes",
+      "Complex configuration"
+    ]
+  },
+  "communication": {
+    "value_proposition": "combines technical superiority (speed, scale) with business value (TCO, ROI, governance) and ease of use (serverless, managed)",
+    "credibility_markers": [
+      "Customer quotes (e.g., Corning, Xcel Energy, Tealium)",
+      "Quantitative benchmarks (e.g., '20x faster', '7x improvement')",
+      "References to open source contributions (Spark, MLflow)",
+      "Partnership mentions (Microsoft, NVIDIA)"
+    ],
+    "technical_depth": "deep but accessible; assumes reader is data-literate but explains complex architectural concepts clearly"
+  },
+  "examples": {
+    "openings": [
+      "Our customers continue to shift from monolithic prompts with general-purpose models to specialized agent systems to achieve the quality needed to drive ROI with generative AI.",
+      "For today\u2019s manufacturers, streamlined and automated workflows are crucial for overcoming challenges such as manual data management and equipment downtime.",
+      "Transformer models, the backbone of modern language AI, rely on the attention mechanism to process context when generating output."
+    ],
+    "transitions": [
+      "In this blog post, we aim to tackle this challenge by...",
+      "Let\u2019s take a look at how...",
+      "To address these challenges, we are excited to announce...",
+      "Consequently, a challenge arises...",
+      "Let\u2019s dive into a few manufacturing customer success stories."
+    ],
+    "conclusions": [
+      "The Databricks Data Intelligence Platform enables our customers to securely build high-quality AI systems using their own data. To make sure our customers can leverage state-of-the-art Generative AI models, it is important to support features like efficiently fine-tuning Llama 3.1 on long context lengths.",
+      "We are excited to bring these productivity improvements to everyone. Over the coming weeks, we\u2019ll be enabling Databricks Assistant Autocomplete across eligible workspaces.",
+      "This system is designed to be highly configurable, with component settings easily adjustable via a YAML file. This modularity ensures the system remains adaptable and future-proof, ready to integrate with best-in-breed solutions for each component."
+    ]
+  },
+  "_saved_at": "2026-02-02T21:59:22.683915",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
