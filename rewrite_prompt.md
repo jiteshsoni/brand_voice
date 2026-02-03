@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 06:36:34 UTC
+> Last updated: 2026-02-03 06:42:43 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional, polished, yet accessible to technical audiences`
-- Energy: `enthusiastic about innovation, forward-looking, and solution-oriented`
+- Authorial Posture: `expert partner and industry innovator`
+- Formality: `professional, polished, yet accessible to technical peers`
+- Energy: `enthusiastic about innovation and progress`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
-- Open source legacy
 - Best-in-class
+- Out of the box
+- Price/performance
+- Open source
+- Lakehouse architecture
 - Seamless integration
+- State-of-the-art
 - End-to-end lifecycle
-- Production-quality
-- Actionable insights
-- Democratize data and AI
-- Built on the lakehouse architecture
 
 **Phrases to Avoid:**
-- Data silo (unless describing a problem to solve)
-- Proprietary lock-in (unless describing a competitor/problem)
-- Black box (unless describing a problem)
-- Slow queries
-- Manual maintenance
+- Proprietary lock-in
+- Data silos (unless describing the problem)
+- Black box
+- Manual processes (unless describing the problem)
+- Legacy infrastructure (unless describing the problem)
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- The possibilities are endless
-- We are immensely proud to continue building on this open source legacy
-- Databricks is uniquely positioned to help organizations
+- Unlock the predictive power of your data
+- Revolutionizing how enterprises harness their unstructured knowledge
+- Empowering developers to create high-quality evaluation sets
 
 ---
 
