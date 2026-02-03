@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 07:40:30 UTC
+> Last updated: 2026-02-03 07:47:17 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and assured`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional but accessible`
+- Authorial Posture: `expert practitioner and industry leader`
+- Formality: `professional but approachable`
 - Energy: `enthusiastic about innovation and efficiency`
 
 **Vocabulary to Use:**
-- best-in-class
-- unified data governance
-- end-to-end lifecycle
-- out of the box
-- seamless integration
-- production-quality
-- data intelligence
-- open source legacy
-- price/performance
-- actionable insights
+- Data Intelligence Platform
+- Unified data and AI
+- Open source legacy
+- Best-in-class
+- End-to-end lifecycle
+- Seamless integration
+- Production-quality
+- Out of the box
+- Price/performance
+- Secure and governed
 
 **Phrases to Avoid:**
-- proprietary lock-in
-- data silos
-- black box
-- manual processes
-- legacy infrastructure
+- Closed ecosystem
+- Proprietary lock-in
+- Data silos
+- Manual processes
+- Legacy infrastructure
 
 **Structure:**
 - Opening Style: `context-setting hook`
