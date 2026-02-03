@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 09:46:39 UTC
+> Last updated: 2026-02-03 18:39:28 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert practitioner and innovation partner`
-- Formality: `professional technical`
-- Energy: `enthusiastic about innovation and efficiency`
+- Authorial Posture: `expert partner and industry leader`
+- Formality: `professional, polished, yet accessible to technical audiences`
+- Energy: `enthusiastic about innovation, forward-looking, solution-oriented`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
-- Lakehouse architecture
 - Unified governance
 - Best-in-class
-- Out of the box
+- Open source legacy
 - Seamless integration
-- Price/performance
 - End-to-end lifecycle
-- Open source standards
-- Proprietary data
+- Production-quality
+- Actionable insights
+- Democratize data and AI
+- Built on the lakehouse architecture
 
 **Phrases to Avoid:**
-- Data silo (unless describing a problem to solve)
-- Closed ecosystem
+- Closed system
 - Proprietary lock-in
-- Manual tuning (unless describing what is being eliminated)
-- Black box models
+- Data silo
+- Black box
+- Manual processes
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionized how enterprises harness their unstructured knowledge
-- Empowering developers to create a high-quality evaluation set
-- Unlock the predictive power of your time series data
+- We are immensely proud to continue building on this open source legacy
+- The possibilities are endless
+- Databricks is uniquely positioned to help organizations
 
 ---
 
