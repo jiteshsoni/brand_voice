@@ -36,82 +36,78 @@
   "tone": {
     "confidence_level": "authoritative and visionary",
     "authorial_posture": "expert partner and industry leader",
-    "formality": "professional, polished, yet accessible to technical audiences",
-    "energy": "enthusiastic about innovation, solution-oriented",
+    "formality": "professional, polished, and technically precise",
+    "energy": "enthusiastic about innovation and efficiency",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
-      "The possibilities are endless",
-      "We are immensely proud to continue building on this open source legacy",
-      "Databricks is uniquely positioned to help organizations"
+      "Revolutionizing how enterprises harness their unstructured knowledge",
+      "Empowering developers to create a high-quality evaluation set",
+      "The ultimate goal of creating fully autonomous decision-making applications"
     ]
   },
   "structure": {
-    "opening_style": "Context-setting followed by a problem statement or major announcement. Often starts with a broad industry trend (e.g., 'Our customers continue to shift...', 'Large language models are revolutionizing...') before narrowing to the specific solution.",
-    "section_organization": "Highly structured with clear, descriptive H2 and H3 headers. Logical flow: Context -> Problem/Challenge -> Solution (The Feature/Product) -> Technical Details/How-to -> Benefits/Results.",
-    "code_integration": "Frequent use of code snippets (SQL, Python) to demonstrate implementation, often accompanied by explanatory text or diagrams. Code is treated as a primary proof point.",
-    "conclusion_style": "Forward-looking summary often including a call to action (e.g., 'To get started...', 'Read on for more details...')."
+    "opening_style": "context-setting via industry trends or specific customer pain points",
+    "section_organization": "logical progression: Context -> Problem -> Solution (Feature) -> Technical Implementation -> Business Value",
+    "code_integration": "illustrative and functional, often introduced with 'Simply write...' or 'The syntax is simple...'",
+    "conclusion_style": "summary of benefits with direct links to documentation or 'getting started' guides"
   },
   "vocabulary": {
     "technical_terms": [
-      "RAG (Retrieval-Augment Generation)",
-      "LLM (Large Language Model)",
-      "Lakehouse architecture",
-      "Unity Catalog",
+      "Retrieval-Augmented Generation (RAG)",
+      "Large Language Models (LLMs)",
       "Vector Search",
-      "Delta Lake",
-      "Liquid Clustering",
-      "Serverless compute",
       "Inference",
       "Fine-tuning",
-      "Batch processing",
-      "Latency",
-      "Governance",
+      "Star Schema",
+      "ACID transactions",
+      "Data Lakehouse",
       "Orchestration",
-      "Embeddings"
+      "Latency",
+      "Throughput",
+      "Governance"
     ],
     "action_verbs": [
-      "Streamline",
       "Leverage",
-      "Empower",
-      "Accelerate",
+      "Streamline",
       "Democratize",
       "Unify",
-      "Optimize",
-      "Revolutionize",
+      "Orchestrate",
+      "Accelerate",
+      "Empower",
       "Scale",
-      "Integrate"
+      "Optimize",
+      "Revolutionize"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
       "Unified governance",
-      "Open source legacy",
       "Best-in-class",
-      "End-to-end lifecycle",
-      "Production-quality",
-      "Seamless integration",
       "Out of the box",
+      "Seamless integration",
+      "End-to-end lifecycle",
       "Price/performance",
-      "Democratize data and AI"
+      "Open source standards",
+      "Single source of truth",
+      "Actionable insights"
     ],
     "phrases_to_avoid": [
-      "Closed system",
-      "Proprietary lock-in",
-      "Data silo",
-      "Black box",
+      "Data silo (unless describing a problem to solve)",
+      "Proprietary lock-in (unless describing a competitor/problem)",
+      "Black box (unless describing a problem)",
+      "Guesswork",
       "Manual overhead"
     ]
   },
   "communication": {
-    "value_proposition": "Focuses heavily on speed, cost-efficiency (TCO), unification of data and AI, and open standards. Emphasizes moving from 'experimentation' to 'production'.",
+    "value_proposition": "combining technical superiority (speed, scale) with business outcomes (ROI, TCO reduction, governance)",
     "credibility_markers": [
       "Customer quotes (e.g., 'Chris Nishnick, Director of AI at Lippert')",
-      "Benchmark results (e.g., '20x faster', '7x improvement')",
-      "References to open source contributions (Spark, MLflow)",
-      "Partnership mentions (Microsoft, Tealium, MathWorks)",
-      "Specific technical metrics (tokens, latency in ms)"
+      "Specific metrics (e.g., '50% improvement in prediction error rate')",
+      "References to open standards (e.g., 'Apache Spark', 'Iceberg')",
+      "Historical context (e.g., 'Databricks pioneered...')"
     ],
-    "technical_depth": "Deep but accessible. It assumes a technical audience (data engineers, scientists) but explains the 'why' before the 'how'. It balances high-level business value with low-level implementation details."
+    "technical_depth": "deep but accessible; bridges high-level strategy with low-level implementation details"
   },
   "examples": {
     "openings": [
@@ -120,18 +116,18 @@
       "We\u2019re excited to announce that materialized views (MVs) and streaming tables (STs) are now Generally Available in Databricks SQL on AWS and Azure."
     ],
     "transitions": [
-      "Consequently, a challenge arises...",
+      "In this blog post, we aim to tackle this challenge by...",
       "To address these challenges, we are excited to announce...",
       "Let\u2019s dive into a few manufacturing customer success stories.",
-      "In this blog post, we aim to tackle this challenge by...",
+      "Consequently, a challenge arises: how can one...",
       "Read on for more details on how..."
     ],
     "conclusions": [
-      "The Databricks Data Intelligence Platform's capabilities streamlined every phase of the development, from data governance and model integration to monitoring and deployment.",
-      "We intend to gradually roll out additional Assistant features until they are fully on par with those offered via the partner-powered AI settings.",
+      "To get started, see the quick start guide...",
+      "We are excited to bring these productivity improvements to everyone. Over the coming weeks, we\u2019ll be enabling Databricks Assistant Autocomplete across eligible workspaces.",
       "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets."
     ]
   },
-  "_saved_at": "2026-02-03T09:08:06.330640",
+  "_saved_at": "2026-02-03T09:08:25.312974",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
