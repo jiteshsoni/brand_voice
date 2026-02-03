@@ -34,50 +34,53 @@
   ],
   "post_count": 30,
   "tone": {
-    "confidence_level": "authoritative and assured",
-    "authorial_posture": "innovative partner and expert practitioner",
-    "formality": "professional corporate-technical",
-    "energy": "enthusiastic and forward-looking",
+    "confidence_level": "authoritative and visionary",
+    "authorial_posture": "expert partner and industry pioneer",
+    "formality": "professional, polished, yet accessible",
+    "energy": "enthusiastic about innovation and efficiency",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
-      "Revolutionizing how enterprises harness their unstructured knowledge",
-      "Empowering developers to create high-quality evaluation sets",
+      "Revolutionized how enterprises harness their unstructured knowledge",
+      "Empowering developers to create a high-quality evaluation set",
       "We are immensely proud to continue building on this open source legacy"
     ]
   },
   "structure": {
-    "opening_style": "context-setting followed by solution introduction",
-    "section_organization": "problem statement -> solution/feature announcement -> technical deep dive -> customer proof point",
-    "code_integration": "illustrative snippets embedded within technical explanation context",
-    "conclusion_style": "summary of benefits with direct calls to action or documentation links"
+    "opening_style": "context-setting via industry trends or specific customer challenges",
+    "section_organization": "logical progression: Context -> Problem/Challenge -> The Databricks Solution -> Technical Deep Dive/How-to -> Customer Proof/Benchmark -> Conclusion",
+    "code_integration": "functional and illustrative, often introduced with 'Simply write...' or 'The syntax is simple...'",
+    "conclusion_style": "forward-looking summary with direct calls to action or links to documentation"
   },
   "vocabulary": {
     "technical_terms": [
-      "RAG (Retrieval-Augmented Generation)",
-      "LLMs (Large Language Models)",
-      "Lakehouse architecture",
-      "Vector Search",
-      "Inference",
-      "Fine-tuning",
-      "Serverless",
-      "Latency",
-      "Throughput",
-      "Governance",
-      "Orchestration",
-      "Embeddings"
+      "RAG (Retrieval-Augment Generation)",
+      "LLM (Large Language Model)",
+      "inference",
+      "latency",
+      "throughput",
+      "vector embedding",
+      "fine-tuning",
+      "star schema",
+      "ACID transactions",
+      "metadata",
+      "governance",
+      "orchestration",
+      "serverless",
+      "batch processing",
+      "TCO (Total Cost of Ownership)"
     ],
     "action_verbs": [
-      "Leverage",
-      "Streamline",
-      "Democratize",
-      "Accelerate",
-      "Unify",
-      "Empower",
-      "Optimize",
-      "Revolutionize",
-      "Harness",
-      "Scale"
+      "leverage",
+      "accelerate",
+      "streamline",
+      "empower",
+      "democratize",
+      "unify",
+      "optimize",
+      "orchestrate",
+      "scale",
+      "revolutionize"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
@@ -85,29 +88,29 @@
       "Best-in-class",
       "Out of the box",
       "Seamless integration",
-      "End-to-end lifecycle",
-      "Proprietary data",
-      "Open standards",
       "Price/performance",
-      "Time to value"
+      "Open standards",
+      "Single source of truth",
+      "End-to-end lifecycle",
+      "Actionable insights"
     ],
     "phrases_to_avoid": [
-      "Closed source (unless critiquing)",
-      "Proprietary lock-in (unless critiquing)",
-      "Data silos (unless describing the problem)",
-      "Slow queries (unless describing the problem)",
-      "Manual labeling (unless describing the problem)"
+      "Proprietary lock-in",
+      "Data silos",
+      "Black box",
+      "Manual processes",
+      "Complex configuration"
     ]
   },
   "communication": {
-    "value_proposition": "combining data and AI on a single unified platform to reduce cost and complexity while increasing speed",
+    "value_proposition": "combining the openness of a data lake with the reliability and performance of a data warehouse, enhanced by AI",
     "credibility_markers": [
-      "Customer testimonials (e.g., Corning, Xcel Energy)",
-      "Specific performance metrics (e.g., '7x faster', '50% improvement')",
-      "References to open source contributions",
-      "Partnership mentions (e.g., Microsoft, Tealium)"
+      "Customer quotes (e.g., Corning, Xcel Energy, Tealium)",
+      "Specific benchmark metrics (e.g., '20x faster', '7x improvement')",
+      "References to open source contributions (Spark, MLflow)",
+      "Partnership mentions (Microsoft, Snowflake integration)"
     ],
-    "technical_depth": "accessible high-level overview transitioning quickly into deep technical specifics and architecture"
+    "technical_depth": "deep but accessible; explains the 'why' before the 'how', suitable for both decision-makers and practitioners"
   },
   "examples": {
     "openings": [
@@ -117,17 +120,17 @@
     ],
     "transitions": [
       "In this blog post, we aim to tackle this challenge by...",
-      "Let\u2019s dive into a few manufacturing customer success stories.",
       "To address these challenges, we are excited to announce...",
-      "Consequently, a challenge arises...",
+      "Let\u2019s dive into a few manufacturing customer success stories.",
+      "Consequently, a challenge arises: how can one...",
       "Read on for more details on how..."
     ],
     "conclusions": [
-      "This system is designed to be highly configurable, with component settings easily adjustable via a YAML file. This modularity ensures the system remains adaptable and future-proof.",
-      "We are immensely proud to continue building on this open source legacy.",
-      "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets."
+      "To get started, see the quick [link/reference].",
+      "This system is designed to be highly configurable, with component settings easily adjustable via a YAML file. This modularity ensures the system remains adaptable and future-proof...",
+      "We intend to gradually roll out additional Assistant features until they are fully on par with those offered via the partner-powered AI settings."
     ]
   },
-  "_saved_at": "2026-02-03T08:37:06.361376",
+  "_saved_at": "2026-02-03T08:38:06.510536",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
