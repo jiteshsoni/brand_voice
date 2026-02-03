@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 18:42:05 UTC
+> Last updated: 2026-02-03 18:46:21 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and thought leader`
-- Formality: `professional, polished, yet accessible to practitioners`
-- Energy: `enthusiastic about innovation and forward momentum`
+- Authorial Posture: `expert partner and industry leader`
+- Formality: `professional, polished, yet accessible to technical audiences`
+- Energy: `enthusiastic about innovation, forward-looking, solution-oriented`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
+- Open source legacy
 - Best-in-class
-- Price/performance
-- End-to-end lifecycle
-- Open standards
-- Siloed data
-- Actionable insights
-- Production-quality
 - Seamless integration
+- Production-quality
+- End-to-end lifecycle
+- Actionable insights
+- Price/performance
+- Built on the lakehouse architecture
 
 **Phrases to Avoid:**
-- Proprietary lock-in
-- Black box solutions
-- Manual coding (in context of being the old way)
-- Data swamps
-- Monolithic architecture (framed negatively)
+- Data silo (unless describing a problem to solve)
+- Proprietary lock-in (unless describing a competitor/problem)
+- Black box
+- Slow queries
+- Manual processes
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- revolutionized how enterprises harness their unstructured knowledge
-- empowering developers to create a high-quality evaluation set
+- The possibilities are endless
 - We are immensely proud to continue building on this open source legacy
+- Databricks is uniquely positioned to help organizations
 
 ---
 
