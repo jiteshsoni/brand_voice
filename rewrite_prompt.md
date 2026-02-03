@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 07:54:21 UTC
+> Last updated: 2026-02-03 08:09:55 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional but accessible`
-- Energy: `enthusiastic about innovation and efficiency`
+- Authorial Posture: `expert partner and innovator`
+- Formality: `professional technical`
+- Energy: `enthusiastic about innovation`
 
 **Vocabulary to Use:**
-- Data Intelligence Platform
-- Unified governance
-- Best-in-class
-- Out of the box
-- Price/performance
-- End-to-end lifecycle
-- Seamless integration
-- Actionable insights
-- Production-quality
-- Open standards
+- unified data governance
+- best-in-class price/performance
+- out of the box
+- seamless integration
+- data intelligence
+- open standards
+- production-quality
+- end-to-end lifecycle
+- actionable insights
+- proprietary data
 
 **Phrases to Avoid:**
-- Data silo (unless describing the problem)
-- Proprietary lock-in (unless describing competitors)
-- Slow processing
-- Manual intervention
-- Complex configuration
+- proprietary lock-in
+- black box solutions
+- manual infrastructure management
+- complex configuration
+- data movement
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,8 +61,8 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionized how enterprises harness their unstructured knowledge
-- Empowering developers to create a high-quality evaluation set
+- Revolutionizing how we interact with technology
+- Empowering developers to create high-quality evaluation sets
 - We are immensely proud to continue building on this open source legacy
 
 ---
