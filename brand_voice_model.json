@@ -35,102 +35,99 @@
   "post_count": 30,
   "tone": {
     "confidence_level": "authoritative and visionary",
-    "authorial_posture": "expert partner and industry leader",
-    "formality": "professional, polished, yet accessible to technical audiences",
-    "energy": "enthusiastic about innovation, forward-looking, solution-oriented",
+    "authorial_posture": "expert partner and thought leader",
+    "formality": "professional, polished, yet accessible to practitioners",
+    "energy": "enthusiastic about innovation and forward momentum",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
-      "We are immensely proud to continue building on this open source legacy",
-      "The possibilities are endless",
-      "Databricks is uniquely positioned to help organizations"
+      "revolutionized how enterprises harness their unstructured knowledge",
+      "empowering developers to create a high-quality evaluation set",
+      "We are immensely proud to continue building on this open source legacy"
     ]
   },
   "structure": {
-    "opening_style": "context-setting followed by a problem statement or major announcement",
-    "section_organization": "logical progression using clear, descriptive headers (often H2/H3)",
-    "code_integration": "frequent use of code snippets (SQL, Python) accompanied by explanatory text and diagrams",
-    "conclusion_style": "summary of benefits followed by links to documentation, next steps, or calls to action"
+    "opening_style": "context-setting via industry trends or specific customer pain points",
+    "section_organization": "logical progression: Context -> Challenge -> Solution (Product/Feature) -> Technical Implementation -> Customer Proof",
+    "code_integration": "illustrative snippets embedded directly in the narrative to demonstrate ease of use",
+    "conclusion_style": "summary of benefits followed by links to documentation or 'get started' guides"
   },
   "vocabulary": {
     "technical_terms": [
-      "Lakehouse architecture",
-      "Unity Catalog",
-      "Large Language Models (LLMs)",
-      "Retrieval-Augmented Generation (RAG)",
+      "RAG (Retrieval-Augmented Generation)",
+      "LLM (Large Language Model)",
+      "Lakehouse",
       "Vector Search",
-      "Delta Lake",
-      "Apache Spark",
-      "Mosaic AI",
-      "Serverless compute",
       "Inference",
       "Fine-tuning",
-      "Governance",
       "Latency",
       "Throughput",
-      "Orchestration"
+      "Star schema",
+      "ACID transactions",
+      "Sequence parallelism",
+      "KV cache"
     ],
     "action_verbs": [
-      "Leverage",
-      "Streamline",
-      "Accelerate",
-      "Democratize",
-      "Empower",
-      "Optimize",
-      "Unify",
-      "Scale",
-      "Transform",
-      "Integrate"
+      "leverage",
+      "streamline",
+      "accelerate",
+      "democratize",
+      "unify",
+      "orchestrate",
+      "optimize",
+      "empower",
+      "harness",
+      "revolutionize"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
       "Unified governance",
       "Best-in-class",
-      "Open source legacy",
-      "Seamless integration",
+      "Price/performance",
       "End-to-end lifecycle",
-      "Production-quality",
+      "Open standards",
+      "Siloed data",
       "Actionable insights",
-      "Democratize data and AI",
-      "Built on the lakehouse architecture"
+      "Production-quality",
+      "Seamless integration"
     ],
     "phrases_to_avoid": [
-      "Closed system",
       "Proprietary lock-in",
-      "Data silo",
-      "Black box",
-      "Manual processes"
+      "Black box solutions",
+      "Manual coding (in context of being the old way)",
+      "Data swamps",
+      "Monolithic architecture (framed negatively)"
     ]
   },
   "communication": {
-    "value_proposition": "Focuses on speed, cost-efficiency, unified governance, and the ability to democratize AI/data across the enterprise.",
+    "value_proposition": "combining the openness of a data lake with the reliability of a data warehouse to drive AI and analytics",
     "credibility_markers": [
-      "References to specific customer success stories (e.g., Corning, Xcel Energy)",
-      "Benchmarks and performance metrics (e.g., '7x faster', '20x query latency reduction')",
-      "Mention of open source contributions (Spark, MLflow)",
-      "Partnerships with major tech players (Microsoft, NVIDIA)"
+      "Customer quotes (e.g., Corning, Xcel Energy, ICE)",
+      "Benchmark data (e.g., '20x faster', '50% improvement')",
+      "References to open source contributions (Spark, MLflow)",
+      "Partnership mentions (Microsoft, Tealium)"
     ],
-    "technical_depth": "Deep but accessible; bridges high-level business value with low-level implementation details (code, architecture diagrams)."
+    "technical_depth": "deep but accessible; bridges high-level business value with specific engineering implementation details"
   },
   "examples": {
     "openings": [
       "Our customers continue to shift from monolithic prompts with general-purpose models to specialized agent systems to achieve the quality needed to drive ROI with generative AI.",
-      "We\u2019re excited to announce that materialized views (MVs) and streaming tables (STs) are now Generally Available in Databricks SQL on AWS and Azure.",
-      "Transformer models, the backbone of modern language AI, rely on the attention mechanism to process context when generating output."
+      "Retrieval-augmented generation (RAG) has revolutionized how enterprises harness their unstructured knowledge base using Large Language Models (LLMs), and its potential has far-reaching impacts.",
+      "For today\u2019s manufacturers, streamlined and automated workflows are crucial for overcoming challenges such as manual data management and equipment downtime."
     ],
     "transitions": [
-      "Let\u2019s dive into a few manufacturing customer success stories.",
+      "Consequently, a challenge arises: how can one systematically evaluate...",
       "To address these challenges, we are excited to announce...",
-      "In this blog post, we aim to tackle this challenge by...",
-      "Read on for more details on how...",
-      "Consequently, a challenge arises..."
+      "Let\u2019s dive into a few manufacturing customer success stories.",
+      "In this blog, we review how Databricks Workflows enabled...",
+      "However, not all engines can connect to every Iceberg catalog..."
     ],
     "conclusions": [
-      "The Databricks Data Intelligence Platform enables our customers to securely build high-quality AI systems using their own data. To make sure our customers can leverage state-of-the-art Generative AI models, it is important to support features like efficiently fine-tuning Llama 3.1 on long context lengths.",
-      "We are excited to bring these productivity improvements to everyone. Over the coming weeks, we\u2019ll be enabling Databricks Assistant Autocomplete across eligible workspaces.",
-      "To get started, see the quick start guide or visit the documentation."
+      "To get started, see the quick [link implied]",
+      "We intend to gradually roll out additional Assistant features until they are fully on par with those offered via the partner-powered AI settings.",
+      "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets."
     ]
   },
-  "_saved_at": "2026-02-03T18:39:27.264658",
+  "_saved_at": "2026-02-03T18:42:04.803729",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
