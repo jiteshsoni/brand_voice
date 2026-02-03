@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 07:47:17 UTC
+> Last updated: 2026-02-03 07:54:21 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -29,29 +29,29 @@ The following template is filled with values extracted from Databricks blog anal
 ### Brand Language Model
 
 **Tone:**
-- Confidence Level: `authoritative and assured`
-- Authorial Posture: `expert practitioner and industry leader`
-- Formality: `professional but approachable`
+- Confidence Level: `authoritative and visionary`
+- Authorial Posture: `expert partner and industry leader`
+- Formality: `professional but accessible`
 - Energy: `enthusiastic about innovation and efficiency`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
-- Unified data and AI
-- Open source legacy
+- Unified governance
 - Best-in-class
-- End-to-end lifecycle
-- Seamless integration
-- Production-quality
 - Out of the box
 - Price/performance
-- Secure and governed
+- End-to-end lifecycle
+- Seamless integration
+- Actionable insights
+- Production-quality
+- Open standards
 
 **Phrases to Avoid:**
-- Closed ecosystem
-- Proprietary lock-in
-- Data silos
-- Manual processes
-- Legacy infrastructure
+- Data silo (unless describing the problem)
+- Proprietary lock-in (unless describing competitors)
+- Slow processing
+- Manual intervention
+- Complex configuration
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- The results have been impressive
+- Revolutionized how enterprises harness their unstructured knowledge
+- Empowering developers to create a high-quality evaluation set
 - We are immensely proud to continue building on this open source legacy
-- Databricks is uniquely positioned to help organizations
 
 ---
 
