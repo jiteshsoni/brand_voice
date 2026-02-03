@@ -35,79 +35,82 @@
   "post_count": 30,
   "tone": {
     "confidence_level": "authoritative and visionary",
-    "authorial_posture": "expert partner and industry leader",
-    "formality": "professional, polished, and technically precise",
+    "authorial_posture": "expert innovator and strategic partner",
+    "formality": "professional, technical, yet accessible",
     "energy": "enthusiastic about innovation and efficiency",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
-      "Revolutionizing how enterprises harness their unstructured knowledge",
-      "Empowering developers to create a high-quality evaluation set",
-      "The ultimate goal of creating fully autonomous decision-making applications"
+      "Revolutionizing how we interact with technology",
+      "Empowering developers to create high-quality evaluation sets",
+      "Unlock the predictive power of your time series data"
     ]
   },
   "structure": {
-    "opening_style": "context-setting via industry trends or specific customer pain points",
-    "section_organization": "logical progression: Context -> Problem -> Solution (Feature) -> Technical Implementation -> Business Value",
-    "code_integration": "illustrative and functional, often introduced with 'Simply write...' or 'The syntax is simple...'",
-    "conclusion_style": "summary of benefits with direct links to documentation or 'getting started' guides"
+    "opening_style": "context-setting via industry trends or customer pain points, followed by a direct solution announcement",
+    "section_organization": "logical progression: Problem/Context -> The Databricks Solution -> Technical Deep Dive/How It Works -> Customer Proof/Benchmarks -> Conclusion",
+    "code_integration": "frequent use of SQL and Python snippets to demonstrate ease of use and technical implementation",
+    "conclusion_style": "forward-looking summary with direct calls-to-action (links to docs, try it now, or next steps)"
   },
   "vocabulary": {
     "technical_terms": [
-      "Retrieval-Augmented Generation (RAG)",
-      "Large Language Models (LLMs)",
-      "Vector Search",
+      "RAG (Retrieval-Augment Generation)",
+      "LLM (Large Language Model)",
       "Inference",
-      "Fine-tuning",
-      "Star Schema",
-      "ACID transactions",
-      "Data Lakehouse",
-      "Orchestration",
       "Latency",
       "Throughput",
-      "Governance"
+      "Fine-tuning",
+      "Vector Search",
+      "Governance",
+      "Orchestration",
+      "TCO (Total Cost of Ownership)",
+      "ACID transactions",
+      "Batch processing",
+      "Streaming",
+      "Embeddings",
+      "Schema"
     ],
     "action_verbs": [
       "Leverage",
       "Streamline",
       "Democratize",
-      "Unify",
-      "Orchestrate",
       "Accelerate",
       "Empower",
-      "Scale",
+      "Unify",
       "Optimize",
-      "Revolutionize"
+      "Orchestrate",
+      "Revolutionize",
+      "Scale"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
       "Unified governance",
-      "Best-in-class",
-      "Out of the box",
+      "Open data lakehouse architecture",
+      "Best-in-class price/performance",
       "Seamless integration",
       "End-to-end lifecycle",
-      "Price/performance",
-      "Open source standards",
-      "Single source of truth",
-      "Actionable insights"
+      "Democratize data and AI",
+      "Built on open standards",
+      "Actionable insights",
+      "Production-quality"
     ],
     "phrases_to_avoid": [
-      "Data silo (unless describing a problem to solve)",
-      "Proprietary lock-in (unless describing a competitor/problem)",
-      "Black box (unless describing a problem)",
-      "Guesswork",
-      "Manual overhead"
+      "Proprietary lock-in",
+      "Closed ecosystem",
+      "Data silos",
+      "Manual processes",
+      "Legacy infrastructure"
     ]
   },
   "communication": {
-    "value_proposition": "combining technical superiority (speed, scale) with business outcomes (ROI, TCO reduction, governance)",
+    "value_proposition": "combining data warehousing and AI into a single, unified, open platform that reduces cost and complexity while increasing speed",
     "credibility_markers": [
-      "Customer quotes (e.g., 'Chris Nishnick, Director of AI at Lippert')",
-      "Specific metrics (e.g., '50% improvement in prediction error rate')",
-      "References to open standards (e.g., 'Apache Spark', 'Iceberg')",
-      "Historical context (e.g., 'Databricks pioneered...')"
+      "Customer quotes (e.g., Corning, Xcel Energy, Tealium)",
+      "Specific performance metrics (e.g., '7x faster', '20x query latency reduction')",
+      "References to open source contributions (Spark, MLflow)",
+      "Partnership mentions (Microsoft, NVIDIA)"
     ],
-    "technical_depth": "deep but accessible; bridges high-level strategy with low-level implementation details"
+    "technical_depth": "deep but accessible; assumes reader familiarity with data engineering/data science concepts but explains specific implementations clearly"
   },
   "examples": {
     "openings": [
@@ -117,17 +120,17 @@
     ],
     "transitions": [
       "In this blog post, we aim to tackle this challenge by...",
-      "To address these challenges, we are excited to announce...",
       "Let\u2019s dive into a few manufacturing customer success stories.",
-      "Consequently, a challenge arises: how can one...",
-      "Read on for more details on how..."
+      "To address these challenges, we are excited to announce...",
+      "Read on for more details on how...",
+      "Let\u2019s look at a typical customer workload."
     ],
     "conclusions": [
-      "To get started, see the quick start guide...",
-      "We are excited to bring these productivity improvements to everyone. Over the coming weeks, we\u2019ll be enabling Databricks Assistant Autocomplete across eligible workspaces.",
-      "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets."
+      "We intend to gradually roll out additional Assistant features until they are fully on par with those offered via the partner-powered AI settings.",
+      "If you\u2019re eager to try this out, log in to your Databricks account console and configure these connections in a few clicks using the Network Connectivity Configuration (NCC) tool.",
+      "Databricks provides Tealium with a robust, scalable, reliable and comprehensive data platform that is ideal for our data engineering, analytics and AI/ML needs."
     ]
   },
-  "_saved_at": "2026-02-03T09:08:25.312974",
+  "_saved_at": "2026-02-03T09:33:32.954299",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
