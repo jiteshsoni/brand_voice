@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 08:09:55 UTC
+> Last updated: 2026-02-03 08:37:07 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -29,29 +29,29 @@ The following template is filled with values extracted from Databricks blog anal
 ### Brand Language Model
 
 **Tone:**
-- Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and innovator`
-- Formality: `professional technical`
-- Energy: `enthusiastic about innovation`
+- Confidence Level: `authoritative and assured`
+- Authorial Posture: `innovative partner and expert practitioner`
+- Formality: `professional corporate-technical`
+- Energy: `enthusiastic and forward-looking`
 
 **Vocabulary to Use:**
-- unified data governance
-- best-in-class price/performance
-- out of the box
-- seamless integration
-- data intelligence
-- open standards
-- production-quality
-- end-to-end lifecycle
-- actionable insights
-- proprietary data
+- Data Intelligence Platform
+- Unified governance
+- Best-in-class
+- Out of the box
+- Seamless integration
+- End-to-end lifecycle
+- Proprietary data
+- Open standards
+- Price/performance
+- Time to value
 
 **Phrases to Avoid:**
-- proprietary lock-in
-- black box solutions
-- manual infrastructure management
-- complex configuration
-- data movement
+- Closed source (unless critiquing)
+- Proprietary lock-in (unless critiquing)
+- Data silos (unless describing the problem)
+- Slow queries (unless describing the problem)
+- Manual labeling (unless describing the problem)
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,7 +61,7 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionizing how we interact with technology
+- Revolutionizing how enterprises harness their unstructured knowledge
 - Empowering developers to create high-quality evaluation sets
 - We are immensely proud to continue building on this open source legacy
 
