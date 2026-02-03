@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 09:08:26 UTC
+> Last updated: 2026-02-03 09:33:36 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional, polished, and technically precise`
+- Authorial Posture: `expert innovator and strategic partner`
+- Formality: `professional, technical, yet accessible`
 - Energy: `enthusiastic about innovation and efficiency`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
-- Best-in-class
-- Out of the box
+- Open data lakehouse architecture
+- Best-in-class price/performance
 - Seamless integration
 - End-to-end lifecycle
-- Price/performance
-- Open source standards
-- Single source of truth
+- Democratize data and AI
+- Built on open standards
 - Actionable insights
+- Production-quality
 
 **Phrases to Avoid:**
-- Data silo (unless describing a problem to solve)
-- Proprietary lock-in (unless describing a competitor/problem)
-- Black box (unless describing a problem)
-- Guesswork
-- Manual overhead
+- Proprietary lock-in
+- Closed ecosystem
+- Data silos
+- Manual processes
+- Legacy infrastructure
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionizing how enterprises harness their unstructured knowledge
-- Empowering developers to create a high-quality evaluation set
-- The ultimate goal of creating fully autonomous decision-making applications
+- Revolutionizing how we interact with technology
+- Empowering developers to create high-quality evaluation sets
+- Unlock the predictive power of your time series data
 
 ---
 
