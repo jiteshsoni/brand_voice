@@ -35,82 +35,79 @@
   "post_count": 30,
   "tone": {
     "confidence_level": "authoritative and visionary",
-    "authorial_posture": "expert innovator and strategic partner",
-    "formality": "professional, technical, yet accessible",
+    "authorial_posture": "expert practitioner and innovation partner",
+    "formality": "professional technical",
     "energy": "enthusiastic about innovation and efficiency",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
-      "Revolutionizing how we interact with technology",
-      "Empowering developers to create high-quality evaluation sets",
+      "Revolutionized how enterprises harness their unstructured knowledge",
+      "Empowering developers to create a high-quality evaluation set",
       "Unlock the predictive power of your time series data"
     ]
   },
   "structure": {
-    "opening_style": "context-setting via industry trends or customer pain points, followed by a direct solution announcement",
-    "section_organization": "logical progression: Problem/Context -> The Databricks Solution -> Technical Deep Dive/How It Works -> Customer Proof/Benchmarks -> Conclusion",
-    "code_integration": "frequent use of SQL and Python snippets to demonstrate ease of use and technical implementation",
-    "conclusion_style": "forward-looking summary with direct calls-to-action (links to docs, try it now, or next steps)"
+    "opening_style": "context-setting via industry trends or specific customer challenges",
+    "section_organization": "problem-solution flow with clear H2 headers",
+    "code_integration": "functional and illustrative, often introduced with direct instructions",
+    "conclusion_style": "summary of benefits with forward-looking statements or calls to documentation"
   },
   "vocabulary": {
     "technical_terms": [
-      "RAG (Retrieval-Augment Generation)",
-      "LLM (Large Language Model)",
-      "Inference",
-      "Latency",
-      "Throughput",
-      "Fine-tuning",
+      "Retrieval-Augmented Generation (RAG)",
+      "Large Language Models (LLMs)",
       "Vector Search",
-      "Governance",
-      "Orchestration",
-      "TCO (Total Cost of Ownership)",
+      "Serverless compute",
+      "Inference",
+      "Fine-tuning",
+      "Star schema",
       "ACID transactions",
-      "Batch processing",
-      "Streaming",
-      "Embeddings",
-      "Schema"
+      "Materialized views",
+      "Streaming tables",
+      "Batch inference",
+      "Sequence parallelism"
     ],
     "action_verbs": [
       "Leverage",
       "Streamline",
       "Democratize",
+      "Orchestrate",
       "Accelerate",
       "Empower",
+      "Revolutionize",
       "Unify",
       "Optimize",
-      "Orchestrate",
-      "Revolutionize",
       "Scale"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
+      "Lakehouse architecture",
       "Unified governance",
-      "Open data lakehouse architecture",
-      "Best-in-class price/performance",
+      "Best-in-class",
+      "Out of the box",
       "Seamless integration",
+      "Price/performance",
       "End-to-end lifecycle",
-      "Democratize data and AI",
-      "Built on open standards",
-      "Actionable insights",
-      "Production-quality"
+      "Open source standards",
+      "Proprietary data"
     ],
     "phrases_to_avoid": [
-      "Proprietary lock-in",
+      "Data silo (unless describing a problem to solve)",
       "Closed ecosystem",
-      "Data silos",
-      "Manual processes",
-      "Legacy infrastructure"
+      "Proprietary lock-in",
+      "Manual tuning (unless describing what is being eliminated)",
+      "Black box models"
     ]
   },
   "communication": {
     "value_proposition": "combining data warehousing and AI into a single, unified, open platform that reduces cost and complexity while increasing speed",
     "credibility_markers": [
-      "Customer quotes (e.g., Corning, Xcel Energy, Tealium)",
-      "Specific performance metrics (e.g., '7x faster', '20x query latency reduction')",
-      "References to open source contributions (Spark, MLflow)",
-      "Partnership mentions (Microsoft, NVIDIA)"
+      "Customer testimonials (e.g., Corning, Xcel Energy)",
+      "Specific performance metrics (e.g., '7x faster', '50% improvement')",
+      "References to open source contributions",
+      "Collaboration with industry partners (e.g., Tealium, MathWorks)"
     ],
-    "technical_depth": "deep but accessible; assumes reader familiarity with data engineering/data science concepts but explains specific implementations clearly"
+    "technical_depth": "deep but accessible; assumes technical literacy but explains proprietary implementations clearly"
   },
   "examples": {
     "openings": [
@@ -123,14 +120,14 @@
       "Let\u2019s dive into a few manufacturing customer success stories.",
       "To address these challenges, we are excited to announce...",
       "Read on for more details on how...",
-      "Let\u2019s look at a typical customer workload."
+      "Consequently, a challenge arises..."
     ],
     "conclusions": [
       "We intend to gradually roll out additional Assistant features until they are fully on par with those offered via the partner-powered AI settings.",
-      "If you\u2019re eager to try this out, log in to your Databricks account console and configure these connections in a few clicks using the Network Connectivity Configuration (NCC) tool.",
-      "Databricks provides Tealium with a robust, scalable, reliable and comprehensive data platform that is ideal for our data engineering, analytics and AI/ML needs."
+      "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets.",
+      "This system is designed to be highly configurable, with component settings easily adjustable via a YAML file. This modularity ensures the system remains adaptable and future-proof..."
     ]
   },
-  "_saved_at": "2026-02-03T09:33:32.954299",
+  "_saved_at": "2026-02-03T09:46:38.398572",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
