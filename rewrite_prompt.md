@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 18:39:28 UTC
+> Last updated: 2026-02-03 18:42:05 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional, polished, yet accessible to technical audiences`
-- Energy: `enthusiastic about innovation, forward-looking, solution-oriented`
+- Authorial Posture: `expert partner and thought leader`
+- Formality: `professional, polished, yet accessible to practitioners`
+- Energy: `enthusiastic about innovation and forward momentum`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
 - Best-in-class
-- Open source legacy
-- Seamless integration
+- Price/performance
 - End-to-end lifecycle
-- Production-quality
+- Open standards
+- Siloed data
 - Actionable insights
-- Democratize data and AI
-- Built on the lakehouse architecture
+- Production-quality
+- Seamless integration
 
 **Phrases to Avoid:**
-- Closed system
 - Proprietary lock-in
-- Data silo
-- Black box
-- Manual processes
+- Black box solutions
+- Manual coding (in context of being the old way)
+- Data swamps
+- Monolithic architecture (framed negatively)
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
+- revolutionized how enterprises harness their unstructured knowledge
+- empowering developers to create a high-quality evaluation set
 - We are immensely proud to continue building on this open source legacy
-- The possibilities are endless
-- Databricks is uniquely positioned to help organizations
 
 ---
 
