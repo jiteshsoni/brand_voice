@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-03 06:42:43 UTC
+> Last updated: 2026-02-03 06:43:46 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry innovator`
-- Formality: `professional, polished, yet accessible to technical peers`
-- Energy: `enthusiastic about innovation and progress`
+- Authorial Posture: `expert practitioner and industry thought leader`
+- Formality: `professional, technical, yet accessible`
+- Energy: `enthusiastic about innovation and efficiency`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
+- Lakehouse architecture
 - Unified governance
 - Best-in-class
+- Open source standards
+- End-to-end lifecycle
+- Seamless integration
+- Production-quality
 - Out of the box
 - Price/performance
-- Open source
-- Lakehouse architecture
-- Seamless integration
-- State-of-the-art
-- End-to-end lifecycle
 
 **Phrases to Avoid:**
+- Closed ecosystem
 - Proprietary lock-in
-- Data silos (unless describing the problem)
-- Black box
-- Manual processes (unless describing the problem)
-- Legacy infrastructure (unless describing the problem)
+- Data silos
+- Manual processes
+- Legacy infrastructure
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Unlock the predictive power of your data
-- Revolutionizing how enterprises harness their unstructured knowledge
-- Empowering developers to create high-quality evaluation sets
+- Revolutionizing how we interact with technology
+- Empowering developers to create a high-quality evaluation set
+- We are immensely proud to continue building on this open source legacy
 
 ---
 
