@@ -36,98 +36,94 @@
   "tone": {
     "confidence_level": "authoritative and visionary",
     "authorial_posture": "expert partner and industry leader",
-    "formality": "professional corporate-technical",
-    "energy": "enthusiastic about innovation",
+    "formality": "professional but accessible",
+    "energy": "enthusiastic about innovation and efficiency",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
-      "Revolutionized how enterprises harness their unstructured knowledge",
-      "Unlock the full potential of enterprise data",
-      "Best-in-class ETL price/performance"
+      "Revolutionizing how we interact with technology",
+      "Empowering developers to create high-quality evaluation sets",
+      "We are immensely proud to continue building on this open source legacy"
     ]
   },
   "structure": {
-    "opening_style": "context-setting hook followed by problem/solution framing",
-    "section_organization": "logical progression: Context -> Challenge -> Solution (Product) -> Technical Implementation/Proof -> Customer Success -> Conclusion",
-    "code_integration": "illustrative snippets (SQL/Python) embedded directly to prove technical claims",
-    "conclusion_style": "summary of benefits with direct links to documentation or next steps"
+    "opening_style": "context-setting followed by solution introduction",
+    "section_organization": "logical progression: industry challenge -> specific problem -> Databricks solution -> technical details/benchmarks -> customer proof",
+    "code_integration": "inline code blocks used as evidence of simplicity or capability",
+    "conclusion_style": "summary of benefits with direct calls-to-action (links to docs, try it now)"
   },
   "vocabulary": {
     "technical_terms": [
-      "Retrieval-Augmented Generation (RAG)",
-      "Large Language Models (LLMs)",
+      "RAG (Retrieval-Augment Generation)",
+      "LLM (Large Language Model)",
       "Lakehouse architecture",
       "Vector Search",
-      "Star Schema",
-      "ACID transactions",
-      "Inference",
       "Fine-tuning",
-      "Metadata",
+      "Inference",
+      "Star schema",
+      "ACID transactions",
       "Serverless compute",
-      "Batch inference",
-      "Context length"
+      "Metadata"
     ],
     "action_verbs": [
-      "leverage",
-      "accelerate",
-      "streamline",
-      "democratize",
-      "unify",
-      "empower",
-      "optimize",
-      "orchestrate",
-      "revolutionize",
-      "scale"
+      "Leverage",
+      "Democratize",
+      "Streamline",
+      "Accelerate",
+      "Unify",
+      "Orchestrate",
+      "Optimize",
+      "Empower",
+      "Scale",
+      "Revolutionize"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
       "Unified governance",
-      "Out of the box",
-      "Price/performance",
+      "Open source standards",
+      "Best-in-class price/performance",
       "Seamless integration",
       "End-to-end lifecycle",
-      "Open standards",
-      "Actionable insights",
-      "Production-quality",
-      "Single source of truth"
+      "Proprietary data",
+      "Actionable insights"
     ],
     "phrases_to_avoid": [
       "Proprietary lock-in",
-      "Data silos",
-      "Black box models",
-      "Manual overhead",
-      "Complex infrastructure management"
+      "Black box solutions",
+      "Data silos (unless describing the problem)",
+      "Slow processing",
+      "Manual overhead"
     ]
   },
   "communication": {
-    "value_proposition": "combining the simplicity of a warehouse with the power of a data lake to drive AI and analytics ROI",
+    "value_proposition": "unifying data and AI to drive faster insights, lower costs, and better governance",
     "credibility_markers": [
-      "Customer quotes (e.g., Corning, Xcel Energy, Tealium)",
-      "Specific performance benchmarks (e.g., '20x faster', '7x improvement')",
-      "References to open source leadership (Spark, MLflow)",
-      "Partnership mentions (Microsoft, MathWorks)"
+      "Customer quotes (e.g., Corning, Xcel Energy)",
+      "Specific performance metrics (e.g., '20x faster', '7x improvement')",
+      "References to open source leadership",
+      "Mention of scale ('millions of VMs', '8,000 customers')"
     ],
-    "technical_depth": "deep but accessible; bridges high-level business value with specific engineering implementation details"
+    "technical_depth": "deep but accessible; bridges high-level business value with low-level engineering implementation"
   },
   "examples": {
     "openings": [
       "Our customers continue to shift from monolithic prompts with general-purpose models to specialized agent systems to achieve the quality needed to drive ROI with generative AI.",
-      "For today\u2019s manufacturers, streamlined and automated workflows are crucial for overcoming challenges such as manual data management and equipment downtime.",
-      "We\u2019re excited to announce that materialized views (MVs) and streaming tables (STs) are now Generally Available in Databricks SQL on AWS and Azure."
+      "We\u2019re excited to announce that materialized views (MVs) and streaming tables (STs) are now Generally Available in Databricks SQL on AWS and Azure.",
+      "For today\u2019s manufacturers, streamlined and automated workflows are crucial for overcoming challenges such as manual data management and equipment downtime."
     ],
     "transitions": [
       "In this blog post, we aim to tackle this challenge by...",
       "Let\u2019s take a look at how...",
       "To address these challenges, we are excited to announce...",
       "Read on for more details on how...",
-      "Let\u2019s dive into a few manufacturing customer success stories."
+      "Consequently, a challenge arises: how can one..."
     ],
     "conclusions": [
-      "Using ai_query , you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets.",
-      "This system is designed to be highly configurable, with component settings easily adjustable via a YAML file. This modularity ensures the system remains adaptable and future-proof...",
-      "We are immensely proud to continue building on this open source legacy..."
+      "To get started, see the quick start guide...",
+      "We are immensely proud to continue building on this open source legacy...",
+      "This system is designed to be highly configurable... ensuring the system remains adaptable and future-proof."
     ]
   },
-  "_saved_at": "2026-02-06T22:49:27.752975",
+  "_saved_at": "2026-02-06T22:56:41.028873",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
