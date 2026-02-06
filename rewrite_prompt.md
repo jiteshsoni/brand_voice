@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-06 22:32:56 UTC
+> Last updated: 2026-02-06 22:36:32 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,9 +30,9 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and innovator`
-- Formality: `professional technical`
-- Energy: `enthusiastic about innovation and efficiency`
+- Authorial Posture: `expert partner and industry leader`
+- Formality: `professional, polished, yet accessible to technical practitioners`
+- Energy: `enthusiastic about innovation and forward momentum`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
@@ -41,17 +41,17 @@ The following template is filled with values extracted from Databricks blog anal
 - Out of the box
 - Seamless integration
 - End-to-end lifecycle
-- Open standards
 - Price/performance
+- Open source
+- Proprietary data
 - Actionable insights
-- Production-quality
 
 **Phrases to Avoid:**
-- Proprietary lock-in
-- Black box
-- Manual workarounds
-- Siloed data
-- Complex configuration
+- Data silos (unless describing the problem)
+- Proprietary lock-in (unless describing competitors)
+- Black box (unless describing the problem)
+- Slow queries
+- Manual maintenance
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionizing how we interact with technology
-- Empowering developers to create high-quality evaluation sets
-- We are immensely proud to continue building on this open source legacy
+- Revolutionizing how enterprises harness their unstructured knowledge
+- Empowering developers to create a high-quality evaluation set
+- Breaking new ground by pioneering a seamless solution
 
 ---
 
