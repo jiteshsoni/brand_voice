@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-06 22:42:59 UTC
+> Last updated: 2026-02-06 22:47:30 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional, polished, yet accessible to technical practitioners`
-- Energy: `enthusiastic about innovation, forward-looking, and solution-oriented`
+- Authorial Posture: `expert partner and innovator`
+- Formality: `professional technical`
+- Energy: `enthusiastic about innovation and efficiency`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
+- Lakehouse architecture
 - Unified governance
 - Best-in-class
 - Out of the box
 - Seamless integration
 - End-to-end lifecycle
-- Production-quality
-- Open source standards
+- Price/performance
+- Open standards
 - Actionable insights
-- Democratize access to data
 
 **Phrases to Avoid:**
-- Proprietary lock-in
-- Data silos (unless describing the problem)
-- Black box (unless describing the problem)
-- Slow queries (unless describing the problem)
-- Manual intervention
+- Data silo (unless describing a problem to solve)
+- Proprietary lock-in (unless describing a competitor/problem)
+- Black box
+- Guesswork
+- Manual overhead
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionized how enterprises harness their unstructured knowledge
-- Empowering developers to create a high-quality evaluation set
-- We are immensely proud to continue building on this open source legacy
+- Unlock the predictive power of your time series data
+- Revolutionized how enterprises harness their unstructured knowledge base
+- Simpler, faster, and more affordable than ever
 
 ---
 
