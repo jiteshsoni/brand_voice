@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-06 22:58:47 UTC
+> Last updated: 2026-02-06 23:00:42 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -29,29 +29,29 @@ The following template is filled with values extracted from Databricks blog anal
 ### Brand Language Model
 
 **Tone:**
-- Confidence Level: `authoritative and visionary`
-- Authorial Posture: `industry leader and expert practitioner`
-- Formality: `professional, business-technical`
-- Energy: `enthusiastic about innovation and efficiency`
+- Confidence Level: `Authoritative and visionary`
+- Authorial Posture: `Expert partner and industry thought leader`
+- Formality: `Professional, polished, yet accessible to technical practitioners`
+- Energy: `Enthusiastic about innovation, forward-looking, and solution-oriented`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
+- Best-in-class
 - Out of the box
-- Price/performance
 - Seamless integration
 - End-to-end lifecycle
-- Open standards
-- Single source of truth
+- Open source legacy
+- Price/performance
 - Actionable insights
-- Production-quality
+- Single source of truth
 
 **Phrases to Avoid:**
+- Closed ecosystem
 - Proprietary lock-in
-- Black box models
-- Data silos (unless describing a problem to solve)
-- Manual infrastructure management
-- Slow legacy systems
+- Black box
+- Manual workarounds
+- Siloed data
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- Revolutionizing how we interact with technology
-- Empower data teams to shift focus to innovation
-- Best-in-class price/performance
+- Revolutionized how enterprises harness their unstructured knowledge
+- Empowering developers to create a high-quality evaluation set
+- We are immensely proud to continue building on this open source legacy
 
 ---
 
