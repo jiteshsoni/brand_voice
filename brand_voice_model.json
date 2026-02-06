@@ -35,95 +35,100 @@
   "post_count": 30,
   "tone": {
     "confidence_level": "authoritative and visionary",
-    "authorial_posture": "expert partner and industry leader",
-    "formality": "professional but accessible",
+    "authorial_posture": "industry leader and expert practitioner",
+    "formality": "professional, business-technical",
     "energy": "enthusiastic about innovation and efficiency",
     "example_phrases": [
       "We\u2019re excited to announce a significant enhancement",
       "Databricks pioneered the open data lakehouse architecture",
       "Revolutionizing how we interact with technology",
-      "Empowering developers to create high-quality evaluation sets",
-      "We are immensely proud to continue building on this open source legacy"
+      "Empower data teams to shift focus to innovation",
+      "Best-in-class price/performance"
     ]
   },
   "structure": {
-    "opening_style": "context-setting followed by solution introduction",
-    "section_organization": "logical progression: industry challenge -> specific problem -> Databricks solution -> technical details/benchmarks -> customer proof",
-    "code_integration": "inline code blocks used as evidence of simplicity or capability",
-    "conclusion_style": "summary of benefits with direct calls-to-action (links to docs, try it now)"
+    "opening_style": "context-setting followed by problem-solution framing",
+    "section_organization": "logical progression: Context -> Challenge -> Solution (Product/Feature) -> Technical Implementation -> Results/Customer Story",
+    "code_integration": "illustrative and functional, often using SQL or Python to demonstrate simplicity",
+    "conclusion_style": "summary of impact with direct calls to action or links to documentation"
   },
   "vocabulary": {
     "technical_terms": [
-      "RAG (Retrieval-Augment Generation)",
-      "LLM (Large Language Model)",
+      "Retrieval-Augmented Generation (RAG)",
+      "Large Language Models (LLMs)",
       "Lakehouse architecture",
       "Vector Search",
       "Fine-tuning",
       "Inference",
-      "Star schema",
-      "ACID transactions",
       "Serverless compute",
-      "Metadata"
+      "Star schema",
+      "Materialized views",
+      "Sequence parallelism",
+      "Compound AI systems",
+      "Governance",
+      "Data democratization"
     ],
     "action_verbs": [
       "Leverage",
-      "Democratize",
       "Streamline",
       "Accelerate",
+      "Democratize",
       "Unify",
-      "Orchestrate",
       "Optimize",
       "Empower",
-      "Scale",
-      "Revolutionize"
+      "Revolutionize",
+      "Orchestrate",
+      "Scale"
     ],
     "phrases_to_use": [
       "Data Intelligence Platform",
       "Unified governance",
-      "Open source standards",
-      "Best-in-class price/performance",
+      "Out of the box",
+      "Price/performance",
       "Seamless integration",
       "End-to-end lifecycle",
-      "Proprietary data",
-      "Actionable insights"
+      "Open standards",
+      "Single source of truth",
+      "Actionable insights",
+      "Production-quality"
     ],
     "phrases_to_avoid": [
       "Proprietary lock-in",
-      "Black box solutions",
-      "Data silos (unless describing the problem)",
-      "Slow processing",
-      "Manual overhead"
+      "Black box models",
+      "Data silos (unless describing a problem to solve)",
+      "Manual infrastructure management",
+      "Slow legacy systems"
     ]
   },
   "communication": {
-    "value_proposition": "unifying data and AI to drive faster insights, lower costs, and better governance",
+    "value_proposition": "combining data and AI on a single open platform to reduce cost, increase speed, and simplify governance",
     "credibility_markers": [
-      "Customer quotes (e.g., Corning, Xcel Energy)",
-      "Specific performance metrics (e.g., '20x faster', '7x improvement')",
-      "References to open source leadership",
-      "Mention of scale ('millions of VMs', '8,000 customers')"
+      "Customer quotes (e.g., Corning, Xcel Energy, Lippert)",
+      "Quantitative benchmarks (e.g., '20x faster', '7x improvement')",
+      "References to open source contributions (Spark, MLflow)",
+      "Partnership mentions (Microsoft, Tealium)"
     ],
     "technical_depth": "deep but accessible; bridges high-level business value with low-level engineering implementation"
   },
   "examples": {
     "openings": [
       "Our customers continue to shift from monolithic prompts with general-purpose models to specialized agent systems to achieve the quality needed to drive ROI with generative AI.",
-      "We\u2019re excited to announce that materialized views (MVs) and streaming tables (STs) are now Generally Available in Databricks SQL on AWS and Azure.",
+      "Retrieval-augmented generation (RAG) has revolutionized how enterprises harness their unstructured knowledge base using Large Language Models (LLMs), and its potential has far-reaching impacts.",
       "For today\u2019s manufacturers, streamlined and automated workflows are crucial for overcoming challenges such as manual data management and equipment downtime."
     ],
     "transitions": [
       "In this blog post, we aim to tackle this challenge by...",
-      "Let\u2019s take a look at how...",
       "To address these challenges, we are excited to announce...",
-      "Read on for more details on how...",
-      "Consequently, a challenge arises: how can one..."
+      "Let\u2019s dive into a few manufacturing customer success stories.",
+      "Consequently, a challenge arises: how can one systematically evaluate...",
+      "Read on for more details on how..."
     ],
     "conclusions": [
       "To get started, see the quick start guide...",
-      "We are immensely proud to continue building on this open source legacy...",
-      "This system is designed to be highly configurable... ensuring the system remains adaptable and future-proof."
+      "This closed-loop approach enables continuous improvement of the text-to-SQL system, allowing for refinement and adaptation to evolving SQL queries.",
+      "Using ai_query, you can now run at high scale with unmatched speed, ensuring fast processing of even the largest datasets."
     ]
   },
-  "_saved_at": "2026-02-06T22:56:41.028873",
+  "_saved_at": "2026-02-06T22:58:46.451616",
   "_saved_to": "github:jiteshsoni/brand_voice"
 }
