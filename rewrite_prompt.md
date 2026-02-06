@@ -1,7 +1,7 @@
 # Databricks Blog Rewrite Prompt
 
 > This prompt is automatically generated from analyzing 30 Databricks blog posts.
-> Last updated: 2026-02-06 22:38:58 UTC
+> Last updated: 2026-02-06 22:41:26 UTC
 > Brand Model Version: 4.10.0
 
 ---
@@ -30,28 +30,28 @@ The following template is filled with values extracted from Databricks blog anal
 
 **Tone:**
 - Confidence Level: `authoritative and visionary`
-- Authorial Posture: `expert partner and industry leader`
-- Formality: `professional, polished, yet accessible to technical practitioners`
-- Energy: `enthusiastic about innovation, forward-looking, and solution-oriented`
+- Authorial Posture: `expert partner and innovator`
+- Formality: `professional but accessible`
+- Energy: `enthusiastic about technology and progress`
 
 **Vocabulary to Use:**
 - Data Intelligence Platform
 - Unified governance
-- Best-in-class
-- Out of the box
 - Seamless integration
-- End-to-end lifecycle
+- State-of-the-art
+- Out of the box
 - Price/performance
-- Open source legacy
+- End-to-end lifecycle
+- Open source
+- Production-quality
 - Actionable insights
-- Single source of truth
 
 **Phrases to Avoid:**
-- Cheap (use 'cost-effective' or 'lower TCO')
-- I think (use 'We believe' or 'We found')
-- Data swamp (unless describing the problem state)
-- Vendor lock-in (unless describing competitors/legacy)
-- Guesswork (use 'data-driven')
+- Cheap (use 'cost-effective')
+- Fix (use 'resolve' or 'address')
+- Hard (use 'challenging' or 'complex')
+- Guess (use 'predict' or 'forecast')
+- Proprietary lock-in (emphasize 'open standards')
 
 **Structure:**
 - Opening Style: `context-setting hook`
@@ -61,9 +61,9 @@ The following template is filled with values extracted from Databricks blog anal
 **Example Phrases:**
 - We’re excited to announce a significant enhancement
 - Databricks pioneered the open data lakehouse architecture
-- We are immensely proud to continue building on this open source legacy
-- Empowering developers to create a high-quality evaluation set
 - Revolutionizing how we interact with technology
+- Empowering developers to create high-quality evaluation sets
+- Unlock the predictive power of your time series data
 
 ---
 
